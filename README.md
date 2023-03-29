@@ -26,10 +26,10 @@ and Cloud DevOps - basically 'cloud chasing' :) </h3>
 I use `Python` and `Flask`, `JavaScript`and `React`, and `Amazon Web Services - AWS`.
 
 🌱 Currently working on :       
-**Web Development** and **Cloud DevOps Engineering** and **AI - ML**. I’m looking to **collaborate with other developers and I am excited about this!**.
+**Web Development**, **Cloud DevOps Engineering** and **AI - ML**. I’m looking to **collaborate with other developers and I am excited about this!**.
 
 
-> ⚡ Fun fact: I love to play video games, and watch anime. I do not use `Arch Linux` btw :)
+> ⚡ Fun fact: I love to play video games, watch anime and I love jokes. I do not use `Arch Linux` btw :)
 
 You could reach me via : **me.roumuong@gmail.com**
 <!--### OR 📲 -->
