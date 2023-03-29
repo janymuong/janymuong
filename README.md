@@ -5,12 +5,11 @@
 <h1 align="center">Hello, World: <img width="70" height="70" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">,
 </h1>
 
-<h1 align="center"> I am <a href="https://www.github.com/janymuong/"> Jany Muong </a>
+I am [Jany Muong](https://www.github.com/janymuong/)
 
-</h1>
-<h3 align="center"> I do Computer Science, Software Engineering, Machine Learning,
+<h4 align="center"> I do Computer Science, Software Engineering, Machine Learning,
 
-and Cloud DevOps - basically 'cloud chasing' :) </h3>
+and Cloud DevOps - basically 'cloud chasing' :) </h4>
 <h1></h1>
 <div align="center">
   
