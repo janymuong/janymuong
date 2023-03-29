@@ -4,7 +4,7 @@
   
 <h1 align="center">Hello, World: <img width="70" height="70" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">,
 </h1>
----
+
 <h1 align="center"> I am <a href="https://www.github.com/janymuong/"> Jany Muong </a>
 
 </h1>
@@ -15,10 +15,11 @@
 <!--[![Twitter Follow](https://img.shields.io/twitter/follow/janymuong?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjanymuong&screen_name=janymuong)-->
 
  </div>
- 
+
+---
 #  &nbsp;  <br> ABOUT ME :
 
-## I do Full-stack Development & Cloud DevOps Engineering:
+## Full-stack Development & Cloud DevOps Engineering:
 
 I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
 
@@ -31,7 +32,7 @@ I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
 
 
 <p align="left">
- 
+
 <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-light.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="#" target="blank"><img align="center" src="./img_icons/youtube-light.svg" alt="@janymuong" height="30" width="40" /></a> 
@@ -80,8 +81,6 @@ I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://www.getbootstrap.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="img/tailwind.png" alt="tailwind" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     <a href="https://www.w3.org/html/" target="_blank"> 
@@ -89,20 +88,18 @@ I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
     <!--<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>-->    
     <a href="https://nodejs.org" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> 
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
     <a href="https://www.sqlite.org/" target="_blank"> 
      <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
       <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
     </a> 
     <a href="https://www.postgresql.org/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="sqlite" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="40" height="40"/>
     </a> 
   <a href="https://www.postgresql.org/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sqlite" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="postgreSQL" width="40" height="40"/>
     </a> 
     <a href="https://www.sqlalchemy.org/" target="_blank">
-    <img src="img/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
+    <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
     </a>
     <a href="https://www.docker.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -136,7 +133,8 @@ I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
 
 <br/><br/>
 
-### My Git & GitHub :
+---
+### Git & GitHub :
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
    
@@ -148,7 +146,6 @@ I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
 <br /><br />
 <br />
 
----
 [twitter]: https://twitter.com/janymuong
 [instagram]: https://www.instagram.com/jany_muong/
 [linkedin]: https://www.linkedin.com/in/janymuong/
