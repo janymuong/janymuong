@@ -5,10 +5,10 @@
 <h1 align="center">Hello, World: <img width="70" height="70" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">,
 </h1>
 ---
-<h1 align="center"> I am [Jany Muong](https://www.github.com/janymuong/)
+<h1 align="center"> I am <a href="https://www.github.com/janymuong/"> Jany Muong </a>
 
 </h1>
-<h3 align="center"> I do Computer Science and Cloud DevOps - and 'cloud chasing' :) </h3>
+<h3 align="center"> I do Computer Science, and Cloud DevOps - 'cloud chasing' :) </h3>
 <h1></h1>
 <div align="center">
   
@@ -18,14 +18,16 @@
  
 #  &nbsp;  <br> ABOUT ME :
 
-## I do Full-stack Development & Cloud DevOps Engineering: I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
+## I do Full-stack Development & Cloud DevOps Engineering:
+
+I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
 
 - 🌱 Currently on **Web Development** and **Cloud DevOps Engineering**. I’m looking to **collaborate with other developers and I am excited about this!**.
-> ⚡ Fun fact: I love to play video games, and anime. I do not use `Arch Linux` btw :)
+> ⚡ Fun fact: I love to play video games, and watch anime. I do not use `Arch Linux` btw :)
 
 >  You could reach me via : **me.roumuong@gmail.com**
 <!--### OR 📲 -->
-### 📱 CONNECT with ME :
+### CONNECT with ME :
 
 
 <p align="left">
@@ -107,14 +109,8 @@
     </a>
    <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
     </p>
-
-
-
-### :hammer_and_wrench: Tools Setup :
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />  
-
-### The Rest of Programming Languages :
+<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 
 <!--
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
