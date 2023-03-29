@@ -1,0 +1,158 @@
+<!-- # Hi there, Jany Muong 👋
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> -->
+   
+  
+<h1 align="center">Hello, World: <img width="70" height="70" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">,
+</h1>
+---
+<h1 align="center"> I am [Jany Muong](https://www.github.com/janymuong/)
+
+</h1>
+<h3 align="center"> I do Computer Science and Cloud DevOps - and 'cloud chasing' :) </h3>
+<h1></h1>
+<div align="center">
+  
+<!--[![Twitter Follow](https://img.shields.io/twitter/follow/janymuong?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjanymuong&screen_name=janymuong)-->
+
+ </div>
+ 
+#  &nbsp;  <br> ABOUT ME :
+
+## I do Full-stack Development & Cloud DevOps Engineering: I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
+
+- 🌱 Currently on **Web Development** and **Cloud DevOps Engineering**. I’m looking to **collaborate with other developers and I am excited about this!**.
+> ⚡ Fun fact: I love to play video games, and anime. I do not use `Arch Linux` btw :)
+
+>  You could reach me via : **me.roumuong@gmail.com**
+<!--### OR 📲 -->
+### 📱 CONNECT with ME :
+
+
+<p align="left">
+ 
+<a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-light.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="#" target="blank"><img align="center" src="./img_icons/youtube-light.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="#" target="blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="mailto:me.roumuong@gmail.com" target="blank"><img align="center" src="./img_icons/gmail.svg" alt="janymuong" height="30" width="40" /></a>
+ <!--<a href="https://twitter.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/twitter-light.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/instagram-light.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="@janymuong" height="30" width="40" /></a>
+--> 
+</p>
+
+ <!--
+ <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="janymuong" height="30" width="40" /></a>
+<a href="mailto:me.roumuong@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="janymuong" height="30" width="40" /></a>
+<a href="https://twitter.com/janymuong/" target="blank">
+ <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="janymuong" height="30" width="40" />
+ </a>
+<a href="https://www.instagram.com/jany_muong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="janymuong" height="30" width="40" /></a>
+</p>
+
+[![website](./img_icons/linkedin-light.svg)](https://www.linkedin.com/in/janymuong/#gh-light-mode-only)
+[![website](./img_icons/linkedin-dark.svg)](https://www.linkedin.com/in/janymuong//#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img_icons/twitter-light.svg)](https://twitter.com/janymuong#gh-light-mode-only)
+[![website](./img_icons/twitter-dark.svg)](https://twitter.com/janymuong#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img_icons/youtube-light.svg)](https://www.youtube.com/channel/##gh-light-mode-only)
+[![website](./img_icons/youtube-dark.svg)](https://www.youtube.com/channel/##gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img_icons/instagram-light.svg)](https://www.instagram.com/jany_muong/#gh-light-mode-only)
+[![website](./img_icons/instagram-dark.svg)](https://www.instagram.com/jany_muong/#gh-dark-mode-only) -->
+
+ &nbsp;  <br>
+
+# ⚒️ Tech Stack :
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+  <a href="https://www.getbootstrap.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> 
+    <img src="img/tailwind.png" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+    <a href="https://www.w3.org/html/" target="_blank"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <!--<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>-->    
+    <a href="https://nodejs.org" target="_blank">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <a href="https://reactjs.org/" target="_blank"> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40"/> </a>
+    <a href="https://www.sqlite.org/" target="_blank"> 
+     <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
+      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    </a> 
+    <a href="https://www.postgresql.org/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="sqlite" width="40" height="40"/>
+    </a> 
+  <a href="https://www.postgresql.org/" target="_blank"> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sqlite" width="40" height="40"/>
+    </a> 
+    <a href="https://www.sqlalchemy.org/" target="_blank">
+    <img src="img/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
+    </a>
+    <a href="https://www.docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+    </p>
+
+
+
+### :hammer_and_wrench: Tools Setup :
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />  
+
+### The Rest of Programming Languages :
+
+<!--
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />-->
+    
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
+  <!--   <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+-->
+ <!-- <br /><br />-->
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /><br /><br />
+
+
+### :card_file_box: Database - List :
+
+<img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+
+<br/><br/>
+
+### My Git & GitHub :
+
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+   
+<!--<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />-->
+ 
+ <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
+   
+<br /><br />
+<br />
+
+---
+[twitter]: https://twitter.com/janymuong
+[instagram]: https://www.instagram.com/jany_muong/
+[linkedin]: https://www.linkedin.com/in/janymuong/
