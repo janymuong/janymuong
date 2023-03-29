@@ -135,7 +135,6 @@ I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
 ---
 ### Git & GitHub :
 
-Lots of my work in here.
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
    
 <!--<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />-->
@@ -144,7 +143,7 @@ Lots of my work in here.
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
    
 <br /><br />
-<br />
+Lots of my work in here.
 
 [twitter]: https://twitter.com/janymuong
 [instagram]: https://www.instagram.com/jany_muong/
