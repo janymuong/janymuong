@@ -34,16 +34,15 @@ I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
 <p align="left">
 
 <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-light.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="#" target="blank"><img align="center" src="./img_icons/youtube-light.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-dark.svg" alt="@janymuong" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="mailto:me.roumuong@gmail.com" target="blank"><img align="center" src="./img_icons/gmail.svg" alt="janymuong" height="30" width="40" /></a>
  <!--<a href="https://twitter.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/twitter-light.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/instagram-light.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="@janymuong" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jany_muong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/instagram-light.svg" alt="@janymuong" height="30" width="40" /></a> 
+<a href="https://www.instagram.com/jany_muong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="@janymuong" height="30" width="40" /></a>
 --> 
 </p>
 
@@ -136,6 +135,7 @@ I use `Python` and `Flask`, `JavaScript`,`React`, and `AWS`.
 ---
 ### Git & GitHub :
 
+Lots of my work in here.
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
    
 <!--<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />-->
