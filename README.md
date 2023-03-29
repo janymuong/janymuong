@@ -20,7 +20,7 @@ and Cloud DevOps - basically 'cloud chasing' :) </h4>
 ---
 #  &nbsp;  <br> ABOUT ME :
 
-## Full-stack Development & Cloud DevOps Engineering:
+## Full-stack Development & Cloud DevOps Engineering
 
 I use `Python` and `Flask`, `JavaScript`and `React`, and `Amazon Web Services - AWS`.
 
@@ -73,7 +73,7 @@ You could reach me via : **me.roumuong@gmail.com**
 
  &nbsp;  <br>
 
-# ⚒️ Tech Stack :
+# ⚒️ Tech Stack
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -129,7 +129,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /><br /><br />
 
 
-### :card_file_box: Database - List :
+### :card_file_box: Database - List
 
 <img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
