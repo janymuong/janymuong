@@ -8,7 +8,7 @@
 <h1 align="center"> I am <a href="https://www.github.com/janymuong/"> Jany Muong </a>
 
 </h1>
-<h3 align="center"> I do Computer Science, and Cloud DevOps - 'cloud chasing' :) </h3>
+<h3 align="center"> I do Computer Science, Software Engineering, Machine Learning, and Cloud DevOps - 'cloud chasing' :) </h3>
 <h1></h1>
 <div align="center">
   
