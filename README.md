@@ -6,7 +6,7 @@
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<h4 align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,      
+<h4 align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,           
 and other things :)
 </h4>
 
@@ -15,7 +15,7 @@ and other things :)
 
 ## Full-stack Development & Cloud DevOps Engineering
 
-I use `Python` and `Flask`, `JavaScript`and `React`, and `Amazon Web Services - AWS`.
+I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
 🌱 Currently working on :       
 **Web Development**, **Cloud DevOps Engineering** and **AI - ML**. I’m looking to **collaborate with other developers and I am excited about this!**
