@@ -1,13 +1,12 @@
-<!-- # Hi there, Jany Muong 👋🏿
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> -->
-   
-  
+<!-- Hi there, Jany Muong 👋🏿 -->
+
 <h1 align="center">Hello, World 👋🏿:</h1>
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<h4 align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,           
-and other things :)
+<h4 align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,
+</h4>
+<h4 align="center">and other things :)
 </h4>
 
 ---
