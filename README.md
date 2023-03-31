@@ -2,11 +2,12 @@
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> -->
    
   
-<h1 align="center">Hello, World: 👋🏿</h1>
+<h1 align="center">Hello, World 👋🏿:</h1>
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<h4 align="center"> I do Software Engineering, Machine Learning, Cloud DevOps Engineering, Computer Science, and other things :) </h4>
+<h4 align="center"> I do Software Engineering, Machine Learning, Cloud DevOps Engineering, Computer Science,
+and other things :) </h4>
 <h1></h1>
 
 
@@ -35,7 +36,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <a href="#" target="blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://instagram.com/jan_ymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="30" width="40" /></a>
+<a href="https://instagram.com/jany_muong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="30" width="40" /></a>
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="30" width="40" /></a>
  <!--<a href="https://twitter.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/twitter-light.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
@@ -112,9 +113,6 @@ You could reach me via : **me.roumuong@gmail.com**
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />-->
     
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-
-  <!--   <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
--->
  <!-- <br /><br />-->
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /><br /><br />
