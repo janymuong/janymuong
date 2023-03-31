@@ -6,7 +6,7 @@
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<h4 align="center"> I do Software Engineering, Machine Learning, Cloud DevOps Engineering, Computer Science,
+<h4 align="center"> I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,
 and other things :)
 </h4>
 
