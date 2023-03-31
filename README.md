@@ -7,9 +7,8 @@
 I am [Jany Muong](https://www.github.com/janymuong/)
 
 <h4 align="center"> I do Software Engineering, Machine Learning, Cloud DevOps Engineering, Computer Science,
-and other things :) </h4>
-<h1></h1>
-
+and other things :)
+</h4>
 
 ---
 #  &nbsp;  <br> About ME :
