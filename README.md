@@ -1,37 +1,30 @@
-<!-- # Hi there, Jany Muong 👋
+<!-- # Hi there, Jany Muong 👋🏿
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/> -->
    
   
-<h1 align="center">Hello, World: <img width="70" height="70" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">,
-</h1>
+<h1 align="center">Hello, World: 👋🏿</h1>
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<h4 align="center"> I do Computer Science, Software Engineering, Machine Learning,
-
-and Cloud DevOps - basically 'cloud chasing' :) </h4>
+<h4 align="center"> I do Software Engineering, Machine Learning, Cloud DevOps Engineering, Computer Science, and other things :) </h4>
 <h1></h1>
-<div align="center">
-  
-<!--[![Twitter Follow](https://img.shields.io/twitter/follow/janymuong?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjanymuong&screen_name=janymuong)-->
 
- </div>
 
 ---
-#  &nbsp;  <br> ABOUT ME :
+#  &nbsp;  <br> About ME :
 
 ## Full-stack Development & Cloud DevOps Engineering
 
 I use `Python` and `Flask`, `JavaScript`and `React`, and `Amazon Web Services - AWS`.
 
 🌱 Currently working on :       
-**Web Development**, **Cloud DevOps Engineering** and **AI - ML**. I’m looking to **collaborate with other developers and I am excited about this!**.
+**Web Development**, **Cloud DevOps Engineering** and **AI - ML**. I’m looking to **collaborate with other developers and I am excited about this!**
 
 
-> ⚡ Fun fact: I love to play video games, watch anime and I love jokes. I do not use `Arch Linux` btw :)
+> ⚡ Fun fact: I love to play video games, and I watch anime. I (do not) use `Arch Linux` btw :)
 
 You could reach me via : **me.roumuong@gmail.com**
-<!--### OR 📲 -->
+<!--### OR  -->
 ### CONNECT with ME :
 
 
@@ -42,7 +35,8 @@ You could reach me via : **me.roumuong@gmail.com**
 <a href="#" target="blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="mailto:me.roumuong@gmail.com" target="blank"><img align="center" src="./img_icons/gmail.svg" alt="janymuong" height="30" width="40" /></a>
+<a href="https://instagram.com/jan_ymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="30" width="40" /></a>
+<a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="30" width="40" /></a>
  <!--<a href="https://twitter.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/twitter-light.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/jany_muong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/instagram-light.svg" alt="@janymuong" height="30" width="40" /></a> 
@@ -97,9 +91,6 @@ You could reach me via : **me.roumuong@gmail.com**
     </a> 
     <a href="https://www.postgresql.org/" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="40" height="40"/>
-    </a> 
-  <a href="https://www.postgresql.org/" target="_blank"> 
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="postgreSQL" width="40" height="40"/>
     </a> 
     <a href="https://www.sqlalchemy.org/" target="_blank">
     <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
