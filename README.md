@@ -119,7 +119,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 </p>
 
-<p align="left" ><center> GNU/Linux <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
+<p><center> GNU/Linux <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
 </p>
 <br/><br />
 
