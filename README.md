@@ -104,10 +104,9 @@ You could reach me via : **me.roumuong@gmail.com**
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" title="vim"/>
 <a href="#">
-  <img src="img_icons/terminal-dark.svg" alt="shell" width="26px" style="padding-right:10px; />
+  <img src="img_icons/terminal-dark.svg" alt="shell" width="26px" style="padding-right:10px;" />
 </a>
-
-<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
+<img alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 
 <!--
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
