@@ -123,7 +123,7 @@ You could reach me via : **me.roumuong@gmail.com**
 </p>
 <br/><br />
 
-### :card_file_box: Database
+### :card_file_box: DATABASES
 
 <img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
