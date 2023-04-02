@@ -110,15 +110,16 @@ You could reach me via : **me.roumuong@gmail.com**
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />-->
 
  <!-- <br /><br />-->
- 
+
 <p align="left"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" title="vim"/>
 <img align="left" src="img_icons/terminal-dark.svg" alt="shell" width="26px" style="padding-right:10px;" />
 <img alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
+<img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 </p>
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /><br /><br />
+<br /><br />
 
 ### :card_file_box: Database - List
 
