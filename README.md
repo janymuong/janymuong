@@ -118,10 +118,11 @@ You could reach me via : **me.roumuong@gmail.com**
 <img alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 </p>
+<hr/>
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<br /><br />
+<br/><br />
 
-### :card_file_box: Database - List
+### :card_file_box: Database
 
 <img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
