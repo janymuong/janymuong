@@ -119,8 +119,8 @@ You could reach me via : **me.roumuong@gmail.com**
 <img alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-left:50px;" />
 </p>
 
-<img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
-<br/><br />
+<p><center>Also, I know: <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
+</p>
 
 ### :card_file_box: DATABASES
 
