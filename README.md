@@ -116,15 +116,14 @@ You could reach me via : **me.roumuong@gmail.com**
  <!-- <br /><br />-->
 <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
 <img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /><br /><br />
-
+<a href="#">
+  <img src="img_icons/terminal-dark.svg" alt="shell" width="90" />
+</a>
 
 ### :card_file_box: Database - List
 
 <img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<a href="#">
-  <img src="img_icons/terminal-dark.svg" alt="shell" width="90" />
-</a>
 
 <br/><br/>
 
