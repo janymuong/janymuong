@@ -4,10 +4,8 @@
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<h4 align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,
-</h4>
-<h4 align="center">and other things :)
-</h4>
+<h4 align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,</h4>
+<h4 align="center">and other things :) </h4>
 
 ---
 #  &nbsp;  <br> About ME :
@@ -25,7 +23,6 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 You could reach me via : **me.roumuong@gmail.com**
 
 ### CONNECT with ME :
-
 
 <p align="left">
 
@@ -82,10 +79,12 @@ You could reach me via : **me.roumuong@gmail.com**
   <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a> 
   <!--<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>-->    
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  </a> 
   <a href="https://www.sqlite.org/" target="_blank"> 
     <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
@@ -109,7 +108,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />-->
 
- <!-- <br /><br />-->
+<!-- <br /><br />-->
 
 <p align="left"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -119,7 +118,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <img alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-left:50px;" />
 </p>
 
-<p><center>Also, I know: <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
+<p><center>also, I know: <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
 </p>
 
 ### :card_file_box: DATABASES
@@ -133,13 +132,14 @@ You could reach me via : **me.roumuong@gmail.com**
 ### Git & GitHub :
 
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-   
+
 <!--<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />-->
- 
- <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
-   
-<br /><br />
+
+<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a>
+<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" />
+</a>
+
+<br/><br/>
 Lots of my work in here.
 
 [twitter]: https://twitter.com/janymuong
