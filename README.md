@@ -117,9 +117,9 @@ You could reach me via : **me.roumuong@gmail.com**
 <img align="left" src="img_icons/terminal-dark.svg" alt="shell" width="26px" style="padding-right:10px;" />
 <img alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-</p><br/><br />
+</p>
 
-<p align="left">GNU/Linux <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<p align="left" ><center> GNU/Linux <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
 </p>
 <br/><br />
 
