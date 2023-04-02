@@ -119,7 +119,8 @@ You could reach me via : **me.roumuong@gmail.com**
 <img align="left" alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
 </p><br/><br />
 
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+<p align="left">GNU/Linux <img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
+</p>
 <br/><br />
 
 ### :card_file_box: Database
