@@ -63,7 +63,7 @@ You could reach me via : **me.roumuong@gmail.com**
 
  &nbsp;  <br>
 
-# ⚒️ Tech Stack
+# Tech Stack
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
