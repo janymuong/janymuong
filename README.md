@@ -1,11 +1,12 @@
 <!-- Hi, I am Jany Muong 👋🏿 -->
+<!-- about me -->
 
 <h1 align="center">Hello, World 👋🏿:</h1>
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<h4 align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,</h4>
-<h4 align="center">and other things :) </h4>
+<h5 align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,</h5>
+<h5 align="center">and other things :) </h5>
 
 ---
 #  &nbsp;  <br> About ME :
@@ -15,10 +16,10 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
 🌱 Currently working on:       
-**Web Development**, **Cloud DevOps Engineering** and **AI - ML**. I’m looking to **collaborate with other developers and I am excited about this!**
+**Web Development**, **Cloud DevOps Engineering** and **AI - Machine Learning**. I’m looking to **collaborate with other developers and I'm excited about this!**
 
 
-> ⚡ Fun fact: I love to play video games, and I watch anime. I (do not) use `Arch Linux` btw :)
+>⚡ Fun fact: I love to play video games, and I watch anime :)
 
 You could reach me via : **me.roumuong@gmail.com**
 
@@ -63,7 +64,7 @@ You could reach me via : **me.roumuong@gmail.com**
 
  &nbsp;  <br>
 
-# Tech Stack
+# My Tech Stack
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -109,7 +110,8 @@ You could reach me via : **me.roumuong@gmail.com**
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />-->
 
 <!-- <br /><br />-->
-<br/><br/>
+
+
 ## ⚒️ Tool Setup
 <p align="left"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -120,6 +122,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <img alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-left:50px;" />
 </p>
 
+<br/><br/>
 <p><center>also, I know: <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
 </p>
 
