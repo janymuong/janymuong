@@ -64,7 +64,7 @@ You could reach me via : **me.roumuong@gmail.com**
 
  &nbsp;  <br>
 
-# My Tech Stack
+# Tech Stack
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -125,6 +125,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <br/><br/>
 <p><center>also, I know: <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
 </p>
+
 
 ### :card_file_box: DATABASES
 
