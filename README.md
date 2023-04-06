@@ -114,7 +114,7 @@ You could reach me via : **me.roumuong@gmail.com**
 
 
 
-## ⚙️🔩 Tool Setup
+## ⚙️ Tool Setup
 <p align="left"> 
 <img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VS Code"/>
 <img alt="GNU/Linux" height="31" title="GNU/Linux" width="24px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
