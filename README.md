@@ -33,10 +33,10 @@ You could reach me via : **me.roumuong@gmail.com**
 <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://www.twitch.tv/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="32" /></a> 
-<a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a> 
 <a href="#" target="_blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://instagram.com/jany_muong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="24" width="32" /></a>
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="24" width="32" /></a>
+<a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a> 
  <!--<a href="https://twitter.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/twitter-light.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/jany_muong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/instagram-light.svg" alt="@janymuong" height="30" width="40" /></a> 
