@@ -28,13 +28,13 @@ You could reach me via : **me.roumuong@gmail.com**
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-light.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-dark.svg" alt="@janymuong" height="30" width="40" /></a>
-<a href="#" target="blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://instagram.com/jany_muong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="30" width="40" /></a>
-<a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-light.svg" alt="@janymuong" height="24" width="24" /></a> 
+<a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/linkedin-dark.svg" alt="@janymuong" height="24" width="24" /></a>
+<a href="#" target="blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="24" width="24" /></a> 
+<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="24" width="24" /></a> 
+<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="24" width="24" /></a> 
+<a href="https://instagram.com/jany_muong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="24" width="24" /></a>
+<a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="24" width="24" /></a>
  <!--<a href="https://twitter.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/twitter-light.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
 <a href="https://www.instagram.com/jany_muong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/instagram-light.svg" alt="@janymuong" height="30" width="40" /></a> 
