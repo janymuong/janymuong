@@ -106,7 +106,7 @@ You could reach me via : **me.roumuong@gmail.com**
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="aws" width="48" height="48"/> </a>
   <img src="./img_icons/amazon-eks.svg" title="Amazon Elastic Kubernetes Services/EKS" alt="eks" width="27" height="27"/>
   <img src="./img_icons/circleci.svg" title="Circle CI" alt="circleci" width="27" height="27"/>
-  <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="27" height="27"/>
+  <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="32" height="32"/>
   <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="27" height="27"/>
 </p>
 <!--
