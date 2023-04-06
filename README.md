@@ -114,12 +114,12 @@ You could reach me via : **me.roumuong@gmail.com**
 
 ## ⚙️🔩 Tool Setup
 <p align="left"> 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img alt="GNU/Linux" height="31" width="26px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
-<img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" style="padding-right:20px;" title="vim"/>
-<img src="img_icons/terminal-dark.svg" alt="shell" width="26px" style="padding-right:10px;" />
-<img alt="shell" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
-<img alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-left:50px;" />
+<img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VS Code"/>
+<img alt="GNU/Linux" height="31" title="GNU/Linux" width="24px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
+<img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" style="padding-right:20px;" width="64px" title="vim"/>
+<img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" width="24px" style="padding-right:10px;" />
+<img alt="shell" title="GNU/Shell" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" />
 </p>
 
 <br/><br/>
@@ -130,9 +130,9 @@ You could reach me via : **me.roumuong@gmail.com**
 ### :card_file_box: DATABASES
 
 <div align="left"> 
-<img alt="postgres" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:40px;margin-right:35px;" />
+<img alt="postgres" title="PostgreSQL"width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:40px;margin-right:35px;" />
 <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="26px" height="26px" style="padding-right:40px;margin-right:35px;"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="sqlite" width="26px" height="26px" style="padding-right:40px;margin-right:35px;"/>
 </a> 
 <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"style="padding-right:40px;margin-right:35px;" />
   </div>
