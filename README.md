@@ -88,7 +88,7 @@ You could reach me via : **me.roumuong@gmail.com**
   </a> 
   <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="26" height="26"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="26" height="26"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="30" height="30"/>
   </a> 
   <a href="https://www.sqlalchemy.org/" target="_blank">
   <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
