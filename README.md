@@ -154,7 +154,7 @@ You could reach me via : **me.roumuong@gmail.com**
 </a>
 
 <br/><br/>
-Lots of my work in here...
+Lots of my work in here ...
 
 [twitter]: https://twitter.com/janymuong
 [instagram]: https://www.instagram.com/jany_muong/
