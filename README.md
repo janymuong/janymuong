@@ -23,6 +23,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 
 You could reach me via : **me.roumuong@gmail.com**
 
+
 ### CONNECT with ME :
 
 <p align="left">
@@ -112,6 +113,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <!-- <br /><br />-->
 
 
+
 ## ⚙️🔩 Tool Setup
 <p align="left"> 
 <img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VS Code"/>
@@ -122,8 +124,9 @@ You could reach me via : **me.roumuong@gmail.com**
 <img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" />
 </p>
 
+
 <!-- <br/><br/> -->
-<p><center>also, I know: <img alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
+<p><center>also, I use: <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
 </p>
 
 
@@ -142,12 +145,12 @@ You could reach me via : **me.roumuong@gmail.com**
 ---
 ### Git & GitHub :
 
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <!--<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />-->
 
-<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a>
-<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;"  src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" />
+<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a>
+<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" />
 </a>
 
 <br/><br/>
