@@ -64,7 +64,7 @@ You could reach me via : **me.roumuong@gmail.com**
 
  &nbsp;  <br>
 
-# ⚒️Tech Stack
+# ⚒️ Tech Stack
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -86,16 +86,16 @@ You could reach me via : **me.roumuong@gmail.com**
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
   </a> 
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a> 
+  <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgreSQL" width="40" height="40"/>
   </a> 
   <a href="https://www.sqlalchemy.org/" target="_blank">
   <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
   </a>
+  <a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="35" height="35"/>
+  </a> 
   <a href="https://www.docker.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
@@ -112,7 +112,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <!-- <br /><br />-->
 
 
-## ⚙️🔩Tool Setup
+## ⚙️🔩 Tool Setup
 <p align="left"> 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img alt="GNU/Linux" height="31" width="26px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
@@ -130,6 +130,9 @@ You could reach me via : **me.roumuong@gmail.com**
 ### :card_file_box: DATABASES
 
 <img align="left" alt="postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
+<a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="26px" height="26px"/>
+  </a> 
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 
 <br/><br/>
