@@ -33,6 +33,7 @@ You could reach me via : **me.roumuong@gmail.com**
 <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://www.twitch.tv/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="32" /></a> 
+<a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a> 
 <a href="#" target="_blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://instagram.com/jany_muong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="24" width="32" /></a>
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="24" width="32" /></a>
@@ -66,7 +67,7 @@ You could reach me via : **me.roumuong@gmail.com**
 
  &nbsp;  <br>
 
-# ⚒️ Tech Stack
+# Tech Stack
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -101,7 +102,12 @@ You could reach me via : **me.roumuong@gmail.com**
   <a href="https://www.docker.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
+  <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="27" height="27"/>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="aws" width="48" height="48"/> </a>
+  <img src="./img_icons/amazon-eks.svg" title="Amazon Elastic Kubernetes Services/EKS" alt="eks" width="27" height="27"/>
+  <img src="./img_icons/circleci.svg" title="Circle CI" alt="circleci" width="27" height="27"/>
+  <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="27" height="27"/>
+  <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="27" height="27"/>
 </p>
 <!--
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
