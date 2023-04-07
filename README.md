@@ -21,7 +21,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 
 >⚡ Fun fact: I love to play video games, and I watch anime :)
 
-You could reach me via : **me.roumuong@gmail.com**
+You could reach me via: [Mail](me.roumuong@gmail.com).
 
 
 ### CONNECT with ME :
@@ -33,8 +33,8 @@ You could reach me via : **me.roumuong@gmail.com**
 <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://www.twitch.tv/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="32" /></a> 
-<a href="#" target="_blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="24" width="32" /></a> 
-<a href="https://instagram.com/jany_muong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="24" width="32" /></a>
+<!-- <a href="#" target="_blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="24" width="32" /></a>  -->
+<!-- <a href="https://instagram.com/jany_muong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="24" width="32" /></a> -->
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="24" width="32" /></a>
 <a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a> 
  <!--<a href="https://twitter.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/twitter-light.svg" alt="@janymuong" height="30" width="40" /></a> 
@@ -121,7 +121,7 @@ You could reach me via : **me.roumuong@gmail.com**
 
 
 
-## ⚙️ Tool Setup
+## Tool Setup ⚙️
 <p align="left"> 
 <img align="left" alt="Visual Studio Code" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VS Code"/>
 <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
