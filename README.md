@@ -19,9 +19,9 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 **Web Development**, **Cloud DevOps Engineering** and **AI - Machine Learning**. I’m looking to **collaborate with other developers and I'm excited about this!**
 
 
->⚡ Fun fact: I love to play video games, and I watch anime :)
+>⚡Fun fact: I love to play video games, and I watch anime :)
 
-You could reach me via: [Mail](me.roumuong@gmail.com).
+You could reach me via: **[Mail](me.roumuong@gmail.com)**.
 
 
 ### CONNECT with ME :
