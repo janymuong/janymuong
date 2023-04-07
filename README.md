@@ -21,7 +21,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 
 >⚡Fun fact: I love to play video games, and I watch anime :)
 
-You could reach me via: **[Mail](me.roumuong@gmail.com)**.
+
 
 
 ### CONNECT with ME :
