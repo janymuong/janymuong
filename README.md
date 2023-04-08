@@ -9,7 +9,7 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 <h5 align="center">and other things :) </h5>
 
 ---
-#  &nbsp;  <br> About ME :
+#  &nbsp;  <br> About ME
 
 ## Full-stack Development & Cloud DevOps Engineering
 
