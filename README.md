@@ -162,7 +162,6 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" />
 </a>
 
-<br/><br/>
 Lots of my work in here ...
 
 [twitter]: https://twitter.com/janymuong
