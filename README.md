@@ -34,7 +34,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://www.twitch.tv/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="24" width="32" /></a>
-[<code><a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a></code>]
+<code><a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a></code>
 <!-- <a href="#" target="_blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="24" width="32" /></a>  -->
 <!-- <a href="https://instagram.com/jany_muong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="24" width="32" /></a> -->
  <!--<a href="https://twitter.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/twitter-light.svg" alt="@janymuong" height="30" width="40" /></a> 
@@ -72,7 +72,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" title="Python" height="32"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" /> </a>
+  <code><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" /> </a></code>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="26" height="26"/> </a>
   <a href="#"> <img title="React" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
@@ -89,7 +89,9 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="26" height="26" title="NodeJS"/>
   </a> 
-  <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="32" height="32"/> </a>
+  <a href="https://ionicframework.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="32" height="32"/>
+  </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="postgreSQL" width="30" height="30"/>
   </a> 
@@ -103,7 +105,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="27" height="27"/>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="aws" width="48" height="48"/> </a>
+  <code><a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="aws" width="48" height="48"/> </a></code>
   <img src="./img_icons/amazon-eks.svg" title="Amazon Elastic Kubernetes Services/EKS" alt="eks" width="27" height="27"/>
   <img src="./img_icons/circleci.svg" title="Circle CI" alt="circleci" width="27" height="27"/>
   <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="32" height="32"/>
@@ -125,8 +127,8 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 <p align="left"> 
 <img alt="Visual Studio Code" width="24px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VS Code"/>
 <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
-<img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="32" width="24px" style="padding-right:10px;" />
-<img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" />
+<code><img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="32" width="24px" style="padding-right:10px;" /></code>
+<code><img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /></code>
 <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" style="padding-right:20px;" height="24px" width="40px" title="UNIX Vim"/>
 <img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" />
 </p>
@@ -152,7 +154,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 ---
 ### Git & GitHub :
 
-<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<code><img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></code>
 
 <!--<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />-->
 
