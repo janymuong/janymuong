@@ -148,8 +148,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 </a> 
 <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"style="padding-right:40px;margin-right:35px;" />
   </div>
-
-<br/><br/>
+<!-- <br/><br/> -->
 
 ---
 ### Git & GitHub :
@@ -158,10 +157,13 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 
 <!--<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />-->
 
+<div>
 <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a>
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" />
 </a>
+</div>
 
+<br/><br/>
 Lots of my work in here ...
 
 [twitter]: https://twitter.com/janymuong
