@@ -136,7 +136,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 </div>
 
 <br/><br/>
-[x] Lots of my work in here ...
+- [x] Lots of my work in here ...
 
 [twitter]: https://twitter.com/janymuong
 [instagram]: https://www.instagram.com/jany_muong/
