@@ -9,7 +9,7 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 <h5 align="center">and other things :) </h5>
 
 ---
-#  &nbsp;  <br> About ME
+#  &nbsp; About ME
 
 ## Full-stack Development & Cloud DevOps Engineering
 
@@ -20,8 +20,6 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 
 
 >⚡Fun fact: I love to play video games, and I watch anime :)
-
-
 
 
 ### CONNECT with ME :
@@ -35,24 +33,9 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 <a href="https://www.twitch.tv/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="32" /></a> 
 <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="24" width="32" /></a>
 <code><a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a></code>
-<!-- <a href="#" target="_blank"><img align="center" src="./img_icons/youtube-dark.svg" alt="@janymuong" height="24" width="32" /></a>  -->
-<!-- <a href="https://instagram.com/jany_muong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="janymuong" height="24" width="32" /></a> -->
- <!--<a href="https://twitter.com/janymuong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/twitter-light.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/jany_muong/#gh-light-mode-only" target="blank"><img align="center" src="./img_icons/instagram-light.svg" alt="@janymuong" height="30" width="40" /></a> 
-<a href="https://www.instagram.com/jany_muong/#gh-dark-mode-only" target="blank"><img align="center" src="./img_icons/instagram-dark.svg" alt="@janymuong" height="30" width="40" /></a>
---> 
 </p>
 
- <!--
- <a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="janymuong" height="30" width="40" /></a>
-<a href="mailto:me.roumuong@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="janymuong" height="30" width="40" /></a>
-<a href="https://twitter.com/janymuong/" target="blank">
- <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="janymuong" height="30" width="40" />
- </a>
-<a href="https://www.instagram.com/jany_muong" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="janymuong" height="30" width="40" /></a>
-</p>
-
+<!-- 
 [![website](./img_icons/linkedin-light.svg)](https://www.linkedin.com/in/janymuong/#gh-light-mode-only)
 [![website](./img_icons/linkedin-dark.svg)](https://www.linkedin.com/in/janymuong//#gh-dark-mode-only)
 &nbsp;&nbsp;
@@ -84,8 +67,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" title="Cascading Style Sheets/CSS" height="32"/> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="32" height="32"/>
-  </a> 
-  <!--<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>-->    
+  </a>   
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="26" height="26" title="NodeJS"/>
   </a> 
@@ -111,17 +93,8 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
   <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="32" height="32"/>
   <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="27" height="27"/>
 </p>
-<!--
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />-->
 
 <!-- <br /><br />-->
-
-
 
 ## Tool Setup ⚙️
 <p align="left"> 
@@ -156,8 +129,6 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 
 <img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
-<!--<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />-->
-
 <div>
 <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a>
 <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" />
@@ -165,7 +136,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 </div>
 
 <br/><br/>
-Lots of my work in here ...
+[x] Lots of my work in here ...
 
 [twitter]: https://twitter.com/janymuong
 [instagram]: https://www.instagram.com/jany_muong/
