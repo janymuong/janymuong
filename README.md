@@ -1,7 +1,7 @@
 <!-- Hi, I am Jany Muong 👋🏿 -->
 <!-- about me -->
 
-<h3 align="center">Hello, World 👋🏿:</h3>
+<h2 align="center">Hello, World 👋🏿:</h2>
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
