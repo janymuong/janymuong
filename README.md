@@ -21,20 +21,6 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 
 >⚡Fun fact: I love to play video games, and I watch anime :)
 
-
-### CONNECT with ME :
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" alt="@janymuong" height="24" width="32" /></a> 
-<a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" alt="@janymuong" height="24" width="32" /></a>
-<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="24" width="32" /></a> 
-<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="24" width="32" /></a> 
-<a href="https://www.twitch.tv/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="32" /></a> 
-<a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="24" width="32" /></a>
-<code><a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a></code>
-</p>
-
 <!-- 
 [![website](./img_icons/linkedin-light.svg)](https://www.linkedin.com/in/janymuong/#gh-light-mode-only)
 [![website](./img_icons/linkedin-dark.svg)](https://www.linkedin.com/in/janymuong//#gh-dark-mode-only)
@@ -48,7 +34,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 [![website](./img_icons/instagram-light.svg)](https://www.instagram.com/jany_muong/#gh-light-mode-only)
 [![website](./img_icons/instagram-dark.svg)](https://www.instagram.com/jany_muong/#gh-dark-mode-only) -->
 
- &nbsp;  <br>
+&nbsp;  <br>
 
 # Tech Stack:
 
@@ -102,6 +88,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
 <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="32" width="24px" style="padding-right:10px;" />
 <code><img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /></code>
+<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" style="padding-right:20px;" height="24px" width="40px" title="UNIX Vim"/>
 <img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" />
 </p>
@@ -125,18 +112,18 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 
 
 ---
-### Git & GitHub :
+### CONNECT with ME :
 
-<img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<p align="left">
 
-<div>
-  <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a>
-  <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" />
-  </a>
-</div>
-
-<br/><br/>
-- [x] Lots of my work in here ...
+<a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" alt="@janymuong" height="24" width="32" /></a> 
+<a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" alt="@janymuong" height="24" width="32" /></a>
+<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/github-light.svg" alt="@janymuong" height="24" width="32" /></a> 
+<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/github-dark.svg" alt="@janymuong" height="24" width="32" /></a> 
+<a href="https://www.twitch.tv/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="32" /></a> 
+<a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-dark.svg" alt="janymuong" height="24" width="32" /></a>
+<code><a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a></code>
+</p>
 
 [twitter]: https://twitter.com/janymuong
 [instagram]: https://www.instagram.com/jany_muong/
