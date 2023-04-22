@@ -5,8 +5,8 @@
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<h5 align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,</h5>
-<h5 align="center">and other things :) </h5>
+<p align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science,</p>
+<p align="center">and other things :) </p>
 
 ---
 #  &nbsp; About ME
@@ -130,9 +130,9 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 <img align="left" alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 
 <div>
-<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a>
-<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" />
-</a>
+  <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-light.svg" alt="@janymuong" height="30" width="40" /></a>
+  <a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="blank"><img align="left" alt="Github" width="26px" style="padding-right:10px;" title="GitHub/janymuong" src="./img_icons/github-dark.svg" alt="@janymuong" height="30" width="40" />
+  </a>
 </div>
 
 <br/><br/>
