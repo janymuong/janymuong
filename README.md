@@ -77,7 +77,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   </a>
   <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="27" height="27"/>
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="aws" width="48" height="48"/> </a>
-  <img src="./img_icons/amazon-eks.svg" title="Amazon Elastic Kubernetes Services/EKS" alt="eks" width="27" height="27"/>
+  <img src="./img_icons/amazon-eks.svg" title="Amazon EKS" alt="eks" width="27" height="27"/>
   <img src="./img_icons/circleci.svg" title="Circle CI" alt="circleci" width="27" height="27"/>
   <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="32" height="32"/>
   <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="27" height="27"/>
