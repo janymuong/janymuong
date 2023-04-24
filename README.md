@@ -37,8 +37,9 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 [![website](./img_icons/instagram-dark.svg)](https://www.instagram.com/jany_muong/#gh-dark-mode-only) -->
 
 &nbsp;  <br>
-# My Tech Stack: Languages, Frameworks, Cloud Compute, Databases & ORM, SaaS etc
+# My Tech Stack:
 
+This covers languages, frameworks, cloud compute, databases & ORM, SaaS etc that I work with.
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" title="Python" height="32"/> </a> 
@@ -110,7 +111,6 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"style="padding-right:40px;margin-right:35px;" />
   </div>
 <!-- <br/><br/> -->
- -->
 
 ---
 ### CONNECT with ME :
