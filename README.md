@@ -98,12 +98,21 @@ This comprises of editors and tools/utilities that I use.
   <img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" />
 </p>
 
+### :card_file_box: DATABASES
+
+<div align="left"> 
+<img alt="postgres" title="PostgreSQL"width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:40px;margin-right:35px;" />
+<a href="https://www.sqlite.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="sqlite" width="26px" height="26px" style="padding-right:40px;margin-right:35px;"/>
+</a> 
+<img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"style="padding-right:40px;margin-right:35px;" />
+</div>
 
 <br/><br/>
 <p><center>also, I use: <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
 </p>
 
-
+<!-- 
 ### :card_file_box: DATABASES
 
 <div align="left"> 
@@ -113,7 +122,7 @@ This comprises of editors and tools/utilities that I use.
 </a> 
 <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"style="padding-right:40px;margin-right:35px;" />
   </div>
-<!-- <br/><br/>
+<!-- <br/><br/> -->
 
 ---
 ### CONNECT with ME :
