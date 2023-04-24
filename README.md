@@ -39,7 +39,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 &nbsp;  <br>
 # My Tech Stack:
 
-This covers languages, frameworks, cloud compute, databases & ORM, SaaS etc that I work with.
+This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc that I work with.
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" title="Python" height="32"/> </a> 
