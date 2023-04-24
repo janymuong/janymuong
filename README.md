@@ -13,7 +13,7 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 ---
 # &nbsp;About ME
 
-## Full-stack & Cloud DevOps Engineering
+## Full-stack and Cloud DevOps Engineering
 
 I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
@@ -39,7 +39,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 &nbsp;  <br>
 # My Tech Stack:
 
-This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc that I work with.
+This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc, that I work with.
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" title="Python" height="32"/> </a> 
@@ -85,7 +85,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
 <!-- <br /><br />-->
 
 ## Tool Setup ⚙️
-This covers editors and tools/utilities that I use.
+This comprises of editors and tools/utilities that I use.
 <p align="left"> 
   <img alt="Visual Studio Code" width="24px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VS Code"/>
   <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
