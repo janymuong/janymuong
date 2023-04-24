@@ -37,7 +37,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 [![website](./img_icons/instagram-dark.svg)](https://www.instagram.com/jany_muong/#gh-dark-mode-only) -->
 
 &nbsp;  <br>
-# My Tech Stack:
+# My Tech Stack: Languages, Frameworks, Cloud Compute, Databases & ORM, SaaS etc
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
@@ -95,11 +95,11 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 </p>
 
 
-<!-- <br/><br/> -->
+<br/><br/>
 <p><center>also, I use: <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
 </p>
 
-
+<!-- 
 ### :card_file_box: DATABASES
 
 <div align="left"> 
@@ -110,7 +110,7 @@ I use `Python` and `Flask`, `JavaScript` and `React`, and `Amazon Web Services -
 <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"style="padding-right:40px;margin-right:35px;" />
   </div>
 <!-- <br/><br/> -->
-
+ -->
 
 ---
 ### CONNECT with ME :
