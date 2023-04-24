@@ -22,7 +22,7 @@ I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Am
 I’m looking to collaborate with other developers on **open-source** and I'm excited about this!
 
 
->⚡fun fact: I love to watch anime, and I love to play video games, and I like jokes :)
+>⚡fun fact: I love to play video games, I am a massive anime nerd, and I like jokes :)
 
 <!-- 
 [![website](./img_icons/linkedin-light.svg)](https://www.linkedin.com/in/janymuong/#gh-light-mode-only)
