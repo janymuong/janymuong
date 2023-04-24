@@ -103,7 +103,7 @@ This comprises of editors and tools/utilities that I use.
 <p><center>also, I use: <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /></center>
 </p>
 
-<!-- 
+
 ### :card_file_box: DATABASES
 
 <div align="left"> 
@@ -113,7 +113,7 @@ This comprises of editors and tools/utilities that I use.
 </a> 
 <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"style="padding-right:40px;margin-right:35px;" />
   </div>
-<!-- <br/><br/> -->
+<!-- <br/><br/>
 
 ---
 ### CONNECT with ME :
