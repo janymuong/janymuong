@@ -38,8 +38,6 @@ I’m looking to collaborate with other developers on **open-source** and I'm ex
 [![website](./img_icons/instagram-dark.svg)](https://www.instagram.com/jany_muong/#gh-dark-mode-only) -->
 
 &nbsp;  <br>
-
----
 # My Tech Stack:
 
 This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc, that I work with.
