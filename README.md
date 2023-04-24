@@ -86,7 +86,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
 <!-- <br /><br />-->
 
 ## Tool Setup ⚙️
-This comprises of editors and tools/utilities that I use.
+This segment lists out editors and tools/utilities that I use.
 <p align="left"> 
   <img alt="Visual Studio Code" width="24px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VS Code"/>
   <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
