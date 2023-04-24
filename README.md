@@ -18,7 +18,8 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
 🌱 Currently working on:       
-**Web Development**, **Cloud DevOps Engineering** and **AI - Machine Learning**. I’m looking to **collaborate with other developers and I'm excited about this!**
+**Web Development**, **Cloud DevOps Engineering** and **AI - Machine Learning**. 
+I’m looking to collaborate with other developers on **open-source** and I'm excited about this!
 
 
 >⚡Fun fact: I love to play video games, and I watch anime :)
