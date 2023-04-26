@@ -81,7 +81,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <img src="./img_icons/amazon-eks.svg" title="Amazon EKS" alt="eks" width="35" height="35"/>
   <img src="./img_icons/circleci.svg" title="Circle CI" alt="circleci" width="35" height="35"/>
   <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="40" height="40"/>
-  <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="35" height="35"/>
+  <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="32" height="32"/>
 </p>
 
 <!-- <br /><br />-->
