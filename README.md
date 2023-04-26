@@ -43,7 +43,7 @@ I’m looking to collaborate with other developers on **open-source** and I'm ex
 This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc, that I work with.
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="32" title="Python" height="32"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" title="Python" height="36"/> </a> 
   <code><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" /> </a></code>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="26" height="26"/> </a>
@@ -53,17 +53,17 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.getbootstrap.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" title="Bootstrap" height="30"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="32" title="Cascading Style Sheets/CSS" height="32"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="36" title="Cascading Style Sheets/CSS" height="36"/> 
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="32" height="32"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="36" height="36"/>
   </a>   
+  <img src="./img_icons/npm.svg" title="Node Package Manager" alt="npm" width="36" height="36"/>
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="26" height="26" title="NodeJS"/>
   </a> 
   <a href="https://ionicframework.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="32" height="32"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="36" height="36"/>
   </a>
-  <img src="./img_icons/npm.svg" title="Node Package Manager" alt="npm" width="32" height="32"/>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="postgreSQL" width="30" height="30"/>
   </a> 
@@ -80,7 +80,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="aws" width="48" height="48"/> </a>
   <img src="./img_icons/amazon-eks.svg" title="Amazon EKS" alt="eks" width="27" height="27"/>
   <img src="./img_icons/circleci.svg" title="Circle CI" alt="circleci" width="27" height="27"/>
-  <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="32" height="32"/>
+  <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="36" height="36"/>
   <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="27" height="27"/>
 </p>
 
