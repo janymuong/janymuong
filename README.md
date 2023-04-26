@@ -57,7 +57,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="40" height="40"/>
   </a>
-  <img src="./img_icons/npm.svg" title="Node Package Manager" alt="npm" width="40px"/>
+  <!-- <img src="./img_icons/npm.svg" title="Node Package Manager" alt="npm" width="40px"/> -->
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" title="NodeJS"/>
   </a> 
