@@ -43,7 +43,7 @@ I’m looking to collaborate with other developers on **open-source** and I'm ex
 This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc, that I work with.
 <p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" title="Python" height="48"/> </a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="48" title="Python" height="40"/> </a> 
   <code><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="./img_icons/flask.svg" alt="flask" width="44" height="44" title="Flask" /> </a></code>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/> </a>
