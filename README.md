@@ -50,8 +50,8 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="#"> <img title="React" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" title="TypeScript" height="32"/> </a>
-  <a href="https://www.getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" title="Bootstrap" height="40"/> </a>
+  <!-- <a href="https://www.getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" title="Bootstrap" height="40"/> </a> -->
   <a href="https://www.w3schools.com/css/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" title="Cascading Style Sheets/CSS" height="40"/> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -120,13 +120,13 @@ This segment lists out editors and tools/utilities that I use.
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="24" width="32" /></a> 
-<a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="24" width="32" /></a>
-<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/github-light.svg" title="GitHub" alt="@janymuong" height="24" width="32" /></a>
-<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/github-dark.svg" title="GitHub" alt="@janymuong" height="24" width="32" /></a> 
-<a href="https://www.twitch.tv/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="32" /></a> 
-<a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-dark.svg" title="Twitter" alt="janymuong" height="24" width="32" /></a>
-<code><a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="32" /></a></code>
+<a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
+<a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
+<a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/github-light.svg" title="GitHub" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
+<a href="https://github.com/janymuong/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/github-dark.svg" title="GitHub" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
+<a href="https://www.twitch.tv/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
+<a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-dark.svg" title="Twitter" alt="janymuong" height="24" width="40" style="padding-right:10px;" /></a>
+<code><a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a></code>
 </p>
 
 [twitter]: https://twitter.com/janymuong
