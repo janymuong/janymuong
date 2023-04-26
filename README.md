@@ -63,6 +63,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://ionicframework.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="32" height="32"/>
   </a>
+  <img src="./img_icons/npm.svg" title="Node Package Manager" alt="npm" width="32" height="32"/>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="postgreSQL" width="30" height="30"/>
   </a> 
