@@ -102,8 +102,8 @@ This segment lists out editors and tools/utilities that I use.
 <br/><br/>
 <div>
 <p>also, I use: </p>
-<img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /><span>and</span>
-<img title="Assembly Language" alt="asm" width="26px" src="./img_icons/motherboard.svg" style="padding-right:10px;" />
+<img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /><span><center> and </center></span>
+<img title="Assembly Language" alt="asm" width="24px" src="./img_icons/motherboard.svg" style="padding-right:10px;" />
 </div>
 
 <!-- 
