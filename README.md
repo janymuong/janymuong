@@ -66,7 +66,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="postgreSQL" width="36" height="36"/>
   </a>
-  <img src="./img_icons/psycopg2.png" title="Psycopg2 (DBAPI Adapter)" alt="postgreSQL-dbAPI-adapter" width="36" height="36"/>
+  <img src="./img_icons/psycopg2.png" title="Psycopg2 (DBAPI Adapter)" alt="postgreSQL-dbAPI-adapter" width="32" height="32"/>
   <a href="https://www.sqlalchemy.org/" target="_blank">
   <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
   </a>
