@@ -96,7 +96,7 @@ This segment lists out editors and tools/utilities that I use.
   <img alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img src="./img_icons/curl.svg" title="curl" alt="curl" width="27" height="27"/>
   <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" style="padding-right:20px;" height="24px" width="40px" title="UNIX Vim" />
-  <img alt="GNU-nano-editor" width="32px" height="27" src="./img_icons/gnu-nano.png" title="GNU nano" style="padding-left:50px;" />
+  <img alt="GNU-nano-editor" width="32px" height="32px" src="./img_icons/gnu-nano.png" title="GNU nano" style="padding-left:50px;" />
   <!-- <img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" /> -->
 </p>
 
