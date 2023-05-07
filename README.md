@@ -19,22 +19,10 @@ I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Am
 
 🌱 Currently working on:       
 **Web Development**, **Cloud DevOps Engineering** and **AI - machine learning**.      
-And I’m looking to collaborate with other developers on **open-source**, and I'm excited about this!
+Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!
 
 >⚡fun fact: I love to play video games, I am a massive anime nerd, and I like jokes :)
 
-<!-- 
-[![website](./img_icons/linkedin-light.svg)](https://www.linkedin.com/in/janymuong/#gh-light-mode-only)
-[![website](./img_icons/linkedin-dark.svg)](https://www.linkedin.com/in/janymuong//#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img_icons/twitter-light.svg)](https://twitter.com/janymuong#gh-light-mode-only)
-[![website](./img_icons/twitter-dark.svg)](https://twitter.com/janymuong#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img_icons/youtube-light.svg)](https://www.youtube.com/channel/##gh-light-mode-only)
-[![website](./img_icons/youtube-dark.svg)](https://www.youtube.com/channel/##gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img_icons/instagram-light.svg)](https://www.instagram.com/jany_muong/#gh-light-mode-only)
-[![website](./img_icons/instagram-dark.svg)](https://www.instagram.com/jany_muong/#gh-dark-mode-only) -->
 
 &nbsp;  <br>
 # My Tech Stack:
@@ -88,12 +76,13 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
 <!-- <br /><br />-->
 
 ## Tool Setup ⚙️
-This segment lists out editors and tools/utilities that I use.
+This segment lists out editors and tools/command-line utilities that I use:
 <p align="left"> 
   <img alt="Visual Studio Code" width="30px" height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" title="VS Code"/>
   <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
   <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="32" width="24px" style="padding-right:10px;" />
   <code><img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /></code>
+  <img src="img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="24px" style="padding-right:10px;" />
   <img alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img src="./img_icons/curl.svg" title="curl" alt="curl" width="27" height="27"/>
   <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" style="padding-right:20px;" height="24px" width="40px" title="UNIX Vim" />
@@ -135,5 +124,3 @@ This segment lists out editors and tools/utilities that I use.
 </p>
 
 [twitter]: https://twitter.com/janymuong
-[instagram]: https://www.instagram.com/jany_muong/
-[linkedin]: https://www.linkedin.com/in/janymuong/
