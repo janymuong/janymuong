@@ -82,7 +82,7 @@ This segment lists out editors and tools/command-line utilities that I use:
   <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
   <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="32" width="24px" style="padding-right:10px;" />
   <code><img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /></code>
-  <img src="img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="24px" style="padding-right:10px;" />
+  <img src="img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="36" width="32px" style="padding-right:10px;" />
   <img alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img src="./img_icons/curl.svg" title="curl" alt="curl" width="27" height="27"/>
   <img src="https://img.shields.io/badge/vim-239120?style=for-the-badge&logo=vim&logoColor=white" style="padding-right:20px;" height="24px" width="40px" title="UNIX Vim" />
