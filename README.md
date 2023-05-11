@@ -1,7 +1,7 @@
 <!-- Hi, I am Jany Muong 👋🏿 -->
 <!-- about me -->
 
-<h2 align="center">Hello, World 👋🏿:</h2>
+<h2 align="center"><code>Hello, World 👋🏿</code>:</h2>
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
@@ -25,7 +25,7 @@ Also, I am looking to collaborate with other developers on **open-source**, and 
 
 
 &nbsp;  <br>
-# My Tech Stack:
+## My Tech Stack:
 
 This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc, that I work with.
 <p align="left">
