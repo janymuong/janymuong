@@ -13,7 +13,7 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 ---
 # &nbsp;About ME:
 
-## Full-stack and Cloud DevOps Engineering
+### Full-stack and Cloud DevOps Engineering
 
 I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
