@@ -57,7 +57,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="./img_icons/sqlite.svg" title="SQLite" alt="sqlite" width="74" />
+    <img src="./img_icons/sqlite.svg" title="SQLite" alt="sqlite" width="77" />
   </a>
   <img src="img_icons/mysql.svg" title="MySQL" alt="mysql" width="74" />
   <a href="https://www.docker.com" target="_blank">
@@ -84,7 +84,7 @@ This segment lists out editors and tools/command-line utilities that I use.
   <code><img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /></code>
   <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="32px" style="padding-right:10px;" />
   <img alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <img src="./img_icons/curl.svg" title="Curl" alt="curl" width="27" height="27"/>
+  <img src="./img_icons/curl.svg" title="Curl" alt="curl" width="32" height="32"/>
   <img src="./img_icons/unix-vim.svg" style="padding-right:20px;" height="24px" width="40px" title="UNIX Vim" />
   <img alt="gnu-nano" width="32px" height="30px" src="./img_icons/gnu-nano.png" title="GNU nano" style="padding-left:50px;" />
   <!-- <img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" /> -->
