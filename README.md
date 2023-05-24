@@ -54,7 +54,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   </a>
   <img src="./img_icons/psycopg2.png" title="Psycopg2 (DBAPI Adapter)" alt="postgreSQL-dbAPI-adapter" width="30" height="30"/>
   <a href="https://www.sqlalchemy.org/" target="_blank">
-  <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
+  <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="84" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="./img_icons/sqlite.svg" title="SQLite" alt="sqlite" width="74" />
