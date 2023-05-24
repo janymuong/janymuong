@@ -12,7 +12,7 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 <br>
 
 ---
-# &nbsp;About ME:
+# About ME:
 
 ### Full-stack and Cloud DevOps Engineering
 
