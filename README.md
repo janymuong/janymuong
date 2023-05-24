@@ -3,6 +3,7 @@
 
 <h2><code>Hello, World</code> 👋🏿:</h2>
 <!-- align="center" -->
+
 I am [Jany Muong](https://www.github.com/janymuong/)
 
 <p align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science, <br/>and other things :) </p>
@@ -16,7 +17,7 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 ### Full-stack and Cloud DevOps Engineering
 
 <details>
-  <summary><strong > `Toggle for More` </strong></summary>
+  <summary><strong > Toggle for More </strong></summary>
   I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
   🌱 Currently working on:  
