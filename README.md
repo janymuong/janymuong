@@ -1,8 +1,7 @@
 <!-- Hi, I am Jany Muong 👋🏿 -->
 <!-- about me -->
 
-<h2><code>Hello, World</code> 👋🏿:</h2>
-<!-- align="center" -->
+<h2 align="center"><code>Hello, World</code> 👋🏿:</h2>
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
@@ -12,12 +11,12 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 <br>
 
 ---
-# About ME:
+# &nbsp;About ME:
 
 ### Full-stack and Cloud DevOps Engineering
 
 <details>
-  <summary><strong > Toggle for More </strong></summary>
+  <summary><strong><code>Toggle for More...</code></strong></summary>
   I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
   🌱 Currently working on:  
@@ -25,9 +24,8 @@ I am [Jany Muong](https://www.github.com/janymuong/)
   Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!
 
   >⚡fun fact: I love to play video games, I am a massive anime nerd, and I like jokes :)
-  
-</details>
 
+</details>
 &nbsp;
 ## My Tech Stack:
 
