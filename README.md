@@ -26,6 +26,7 @@ I am [Jany Muong](https://www.github.com/janymuong/)
   >⚡fun fact: I love to play video games, I am a massive anime nerd, and I like jokes :)
 
 </details>
+
 &nbsp;
 ## My Tech Stack:
 
