@@ -65,6 +65,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   </a>
   <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36"/>
   <a href="https://aws.amazon.com" target="_blank"> <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="54px" height="50px"/> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="./img_icons/aws-services.svg" title="AWS" alt="aws-services" width="54px" height="50px"/> </a>
   <!-- <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="aws" width="48" height="48"/> </a> -->
   <img src="./img_icons/amazon-eks.svg" title="Amazon EKS" alt="eks" width="35" height="35"/>
   <img src="./img_icons/circleci.svg" title="Circle CI" alt="circleci" width="36" height="36"/>
