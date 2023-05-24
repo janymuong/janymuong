@@ -59,7 +59,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="sqlite" width="35" height="35"/>
   </a>
-  <img src="img_icons/mysql.svg" title="MySQL" alt="mysql" width="35" height="35" />
+  <img src="img_icons/mysql.svg" title="MySQL" alt="mysql" width="40" height="45" />
   <a href="https://www.docker.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
