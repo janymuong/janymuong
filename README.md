@@ -15,8 +15,6 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 
 ### Full-stack and Cloud DevOps Engineering
 
-<details>
-  <summary><strong><code>Toggle for More...</code></strong></summary>
   I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
   🌱 Currently working on:  
@@ -25,7 +23,6 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 
   >⚡fun fact: I love to play video games, I am a massive anime nerd, and I like jokes :)
 
-</details>
 
 &nbsp;
 ## My Tech Stack:
