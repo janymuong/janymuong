@@ -39,7 +39,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" title="NodeJS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36" title="NodeJS"/>
   </a>
   <a href="https://www.getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" title="Bootstrap" height="40"/> </a>
@@ -54,7 +54,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   </a>
   <img src="./img_icons/psycopg2.png" title="Psycopg2 (DBAPI Adapter)" alt="postgreSQL-dbAPI-adapter" width="30" height="30"/>
   <a href="https://www.sqlalchemy.org/" target="_blank">
-  <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="84" />
+  <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="./img_icons/sqlite.svg" title="SQLite" alt="sqlite" width="74" />
