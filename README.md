@@ -36,7 +36,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" title="TypeScript" height="32"/> </a>
   <a href="https://nodejs.org/en" target="_blank">
-    <img src="./img_icons/node-js.svg" alt="nodejs" width="36" height="36" title="NodeJS"/>
+    <img src="./img_icons/node-js.svg" alt="nodejs" width="64" title="NodeJS"/>
   </a>
   <a href="https://ionicframework.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
