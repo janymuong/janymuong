@@ -35,11 +35,11 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="#"> <img title="React" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" title="TypeScript" height="32"/> </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="./img_icons/node-js.svg" alt="nodejs" width="36" height="36" title="NodeJS"/>
+  </a>
   <a href="https://ionicframework.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="36" height="36" title="NodeJS"/>
   </a>
   <a href="https://www.getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" title="Bootstrap" height="40"/> </a>
