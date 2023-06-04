@@ -15,8 +15,8 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
 🌱 Currently working on:  
-**Web Development**, **Cloud DevOps Engineering** and **Artificial Intelligenece - specifically Machine Learning**.  
-also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!
+**Web Development**, **Cloud DevOps Engineering** and **Artificial Intelligenece** - specifically **Machine Learning**.  
+Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!
 
 >⚡fun fact: I love to play video games, I am a massive anime nerd, and I like jokes :)
 
@@ -55,9 +55,9 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="./img_icons/sqlite.svg" title="SQLite" alt="sqlite" width="77" />
+    <img src="./img_icons/sqlite.svg" alt="sqlite" width="77" />
   </a>
-  <img src="img_icons/mysql.svg" title="MySQL" alt="mysql" width="74" />
+  <img src="img_icons/mysql.svg" alt="mysql-dbms" width="74" />
   <a href="https://www.docker.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
