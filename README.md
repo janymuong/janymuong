@@ -102,10 +102,16 @@ This segment lists out editors and tools/command-line utilities that I use.
   <a href="https://aws.amazon.com/cloud9/" target="_blank">
     <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="32px" style="padding-right:10px;" />
   </a>
-  <img alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-  <img src="./img_icons/curl.svg" title="Curl" alt="curl" width="32" height="32"/>
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" title="Git" width="26px" src="./img_icons/git.svg" style="padding-right:10px;" />
+  </a>
+  <a href="https://curl.se/" target="_blank">
+    <img src="./img_icons/curl.svg" title="Curl" alt="curl" width="32" height="32"/>
+  </a>
   <img src="./img_icons/unix-vim.svg" style="padding-right:20px;" height="24px" width="40px" title="UNIX Vim" />
-  <img alt="gnu-nano" width="32px" height="30px" src="./img_icons/gnu-nano.png" title="GNU nano" style="padding-left:50px;" />
+  <a href="https://www.nano-editor.org/" target="_blank">
+    <img alt="gnu-nano" width="32px" height="30px" src="./img_icons/gnu-nano.png" title="GNU nano" style="padding-left:50px;" />
+  </a>
 </p>
 
 <br/><br/>
