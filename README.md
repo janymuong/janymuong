@@ -105,12 +105,12 @@ This segment lists out editors and tools/command-line utilities that I use.
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" title="Git" width="26px" src="./img_icons/git.svg" style="padding-right:10px;" />
   </a>
-  <a href="https://curl.se/" target="_blank">
-    <img src="./img_icons/curl.svg" title="Curl" alt="curl" width="74"/>
-  </a>
   <img src="./img_icons/unix-vim.svg" style="padding-right:20px;" height="24px" width="40px" title="UNIX Vim" />
   <a href="https://www.nano-editor.org/" target="_blank">
     <img alt="gnu-nano" width="32px" height="30px" src="./img_icons/gnu-nano.png" title="GNU nano" style="padding-left:50px;" />
+  </a>
+  <a href="https://curl.se/" target="_blank">
+    <img src="./img_icons/curl.svg" title="Curl" alt="curl" width="74"/>
   </a>
 </p>
 
