@@ -89,7 +89,7 @@ This segment lists out editors and tools/command-line utilities that I use.
   <!-- <img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" /> -->
 </p>
 
-<br/>
+<br/><br/>
 <div>
   <p>also, I use: </p>
   <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
@@ -122,4 +122,4 @@ This segment lists out editors and tools/command-line utilities that I use.
 <code><a href="https://discord.com/mu-0#1062/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Dicord" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a></code>
 </p>
 
-[twitter]: https://twitter.com/janymuong
+[twitter]: https://twitter.com/janymuong/
