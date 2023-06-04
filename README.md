@@ -7,8 +7,6 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 
 <p align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science, <br/>and other things :) </p>
 
-<br>
-
 ---
 # &nbsp;About ME:
 
@@ -90,7 +88,7 @@ This segment lists out editors and tools/command-line utilities that I use.
   <!-- <img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" /> -->
 </p>
 
-<br/><br/>
+<!-- <br/><br/> -->
 <div>
   <p>also, I use: </p>
   <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
