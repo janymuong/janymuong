@@ -90,17 +90,22 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
 
 ## Tool Setup ⚙️:
 This segment lists out editors and tools/command-line utilities that I use.
-<p align="left"> 
-  <img alt="Visual Studio Code" width="30px" height="32" src="./img_icons/vs_code.svg" style="padding-right:10px;" title="VS Code"/>
-  <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="https://img.icons8.com/color/48/000000/linux--v1.png" style="padding-right:10px;">
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="Visual Studio Code" width="30px" height="32" src="./img_icons/vs_code.svg" style="padding-right:10px;" title="VS Code"/>
+  </a>
+  <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank">
+    <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="./img_icons/gnu-linux.png" style="padding-right:10px;">
+  </a>
   <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px" style="padding-right:10px;" />
   <code><img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /></code>
-  <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="32px" style="padding-right:10px;" />
+  <a href="https://aws.amazon.com/cloud9/" target="_blank">
+    <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="32px" style="padding-right:10px;" />
+  </a>
   <img alt="Git" title="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
   <img src="./img_icons/curl.svg" title="Curl" alt="curl" width="32" height="32"/>
   <img src="./img_icons/unix-vim.svg" style="padding-right:20px;" height="24px" width="40px" title="UNIX Vim" />
   <img alt="gnu-nano" width="32px" height="30px" src="./img_icons/gnu-nano.png" title="GNU nano" style="padding-left:50px;" />
-  <!-- <img alt="pycharm" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" title="PyCharm" style="padding-left:50px;" /> -->
 </p>
 
 <br/><br/>
@@ -111,16 +116,9 @@ This segment lists out editors and tools/command-line utilities that I use.
 </div>
 
 <!-- 
-### :card_file_box: DATABASES
-
-<div align="left"> 
-<img alt="postgres" title="PostgreSQL"width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:40px;margin-right:35px;" />
-<a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" title="SQLite" alt="sqlite" width="26px" height="26px" style="padding-right:40px;margin-right:35px;"/>
-</a> 
 <img alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"style="padding-right:40px;margin-right:35px;" />
   </div>
-<!-- <br/><br/> -->
+<br/><br/> -->
 
 ---
 ### CONNECT with ME :
