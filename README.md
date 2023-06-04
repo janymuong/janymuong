@@ -73,8 +73,9 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
     <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="40px"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="./img_icons/aws-services.svg" title="AWS" alt="aws-services" width="54px" height="50px"/> </a>
-  <!-- <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="aws" width="48" height="48"/> </a> -->
-  <img src="./img_icons/amazon-eks.svg" title="Amazon EKS" alt="eks" width="35" height="35"/>
+  <a href="https://aws.amazon.com/eks/" target="_blank">
+    <img src="./img_icons/amazon-eks.svg" title="Amazon EKS" alt="eks" width="35" height="35"/>
+  </a>
   <a href="https://circleci.com/developer" target="_blank">
     <img src="./img_icons/circleci.svg" title="CircleCI" alt="circleci" width="36" height="36"/>
   </a>
@@ -98,7 +99,7 @@ This segment lists out editors and tools/command-line utilities that I use.
     <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="./img_icons/gnu-linux.png" style="padding-right:10px;">
   </a>
   <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px" style="padding-right:10px;" />
-  <code><img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;" /></code>
+  <code><img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="./img_icons/gnu-bash.svg" style="padding-right:10px;" /></code>
   <a href="https://aws.amazon.com/cloud9/" target="_blank">
     <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="32px" style="padding-right:10px;" />
   </a>
