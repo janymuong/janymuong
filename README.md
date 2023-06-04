@@ -31,14 +31,16 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <code><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" /> </a></code>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/> </a>
-  <a href="#"> <img title="React" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> </a>
+  <a href="https://react.dev/" target="_blank" >
+    <img title="React" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" title="TypeScript" height="32"/> </a>
   <a href="https://nodejs.org/en" target="_blank">
     <img src="./img_icons/node-js.svg" alt="nodejs" width="64" title="NodeJS"/>
   </a>
   <a href="https://ionicframework.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" title="Ionic Framework" alt="ionic" width="40" height="40"/>
   </a>
   <a href="https://www.getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" title="Bootstrap" height="40"/> </a>
@@ -51,9 +53,11 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="postgreSQL" width="36" height="36"/>
   </a>
-  <img src="./img_icons/psycopg2.png" title="Psycopg2 (DBAPI Adapter)" alt="postgreSQL-dbAPI-adapter" width="30" height="30"/>
+  <a href="https://pypi.org/project/psycopg2/" target="_blank">
+    <img src="./img_icons/psycopg2.png" title="Psycopg2 (DBAPI Adapter)" alt="postgreSQL-dbAPI-adapter" width="30" height="30"/>
+  </a>
   <a href="https://www.sqlalchemy.org/" target="_blank">
-  <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
+    <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="./img_icons/sqlite.svg" alt="sqlite" width="77" />
@@ -62,14 +66,24 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.docker.com" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
-  <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36"/>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="40px"/> </a>
+  <a href="https://kubernetes.io/" target="_blank">
+    <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="40px"/>
+  </a>
   <a href="https://aws.amazon.com" target="_blank"> <img src="./img_icons/aws-services.svg" title="AWS" alt="aws-services" width="54px" height="50px"/> </a>
   <!-- <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="aws" width="48" height="48"/> </a> -->
   <img src="./img_icons/amazon-eks.svg" title="Amazon EKS" alt="eks" width="35" height="35"/>
-  <img src="./img_icons/circleci.svg" title="Circle CI" alt="circleci" width="36" height="36"/>
-  <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="40" height="35"/>
-  <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="32" height="32"/>
+  <a href="https://circleci.com/developer" target="_blank">
+    <img src="./img_icons/circleci.svg" title="CircleCI" alt="circleci" width="36" height="36"/>
+  </a>
+  <a href="https://www.ansible.com/" target="_blank">
+    <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="40" height="35"/>
+  </a>
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="32" height="32"/>
+  </a>
 </p>
 
 <!-- <br /><br />-->
