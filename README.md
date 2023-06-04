@@ -111,7 +111,7 @@ This segment lists out editors and tools/command-line utilities that I use.
     <img alt="gnu-nano" width="32px" height="30px" src="./img_icons/gnu-nano.png" title="GNU nano" style="padding-left:50px;" />
   </a>
   <a href="https://curl.se/" target="_blank">
-    <img src="./img_icons/curl.svg" title="Curl" alt="curl" width="74"/>
+    <img src="./img_icons/curl.svg" title="Curl" alt="curl" width="77"/>
   </a>
 </p>
 
