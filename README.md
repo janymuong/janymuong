@@ -116,7 +116,7 @@ This segment lists out editors and tools/command-line utilities that I use.
 </p>
 
 <br/><br/>
-<div align="right">
+<div>
   <p>also, I use: </p>
   <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
   <!-- <img title="Assembly Language" alt="asm" width="22px" src="./img_icons/motherboard.svg" style="padding-right:10px;" /> -->
