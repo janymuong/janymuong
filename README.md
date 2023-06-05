@@ -129,7 +129,7 @@ This segment lists out editors and tools/command-line utilities that I use.
  -->
 
 ---
-### CONNECT with ME :
+<h3 align="right"> CONNECT with ME : </h3>
 
 <p align="right">
   <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
