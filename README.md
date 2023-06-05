@@ -76,7 +76,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://aws.amazon.com" target="_blank">
     <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="40px"/>
   </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="./img_icons/aws-services.svg" title="AWS" alt="aws-services" width="54px" height="50px"/> </a>
+  <img src="./img_icons/aws-services.svg" title="AWSCloud" alt="AWS-Cloud-Services" width="54px" height="50px"/>
   <a href="https://aws.amazon.com/eks/" target="_blank">
     <img src="./img_icons/amazon-eks.svg" title="Amazon EKS" alt="eks" width="35" height="35"/>
   </a>
