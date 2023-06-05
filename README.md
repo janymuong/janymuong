@@ -42,12 +42,14 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://ionicframework.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" title="Ionic Framework" alt="ionic" width="40" height="40"/>
   </a>
-  <a href="https://www.getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" title="Bootstrap" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" title="Cascading Style Sheets/CSS" height="40"/> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" title="Cascading Style Sheets/CSS" height="40"/>
+  </a>
+  <a href="https://www.getbootstrap.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" title="Bootstrap" height="40"/>
   </a>
   <!-- <img src="./img_icons/npm.svg" title="Node Package Manager" alt="npm" width="40px"/> -->
   <a href="https://www.postgresql.org/" target="_blank"> 
@@ -62,9 +64,11 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="./img_icons/sqlite.svg" alt="sqlite" width="77" />
   </a>
-  <img src="img_icons/mysql.svg" alt="mysql-dbms" width="74" />
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="img_icons/mysql.svg" alt="mysql-dbms" width="74" />
+  </a>
   <a href="https://www.docker.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="./img_icons/docker.png" alt="docker" width="42" height="40"/>
   </a>
   <a href="https://kubernetes.io/" target="_blank">
     <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36"/>
