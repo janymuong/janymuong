@@ -5,20 +5,17 @@
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<p align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science, <br/>and other things :) </p>
-<br/>
+<p align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science, <br/>and other things :) </p><br/>
 
 ---
 # &nbsp;About ME:
-
 ### Full-stack and Cloud DevOps Engineering
 
 I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
 🌱 Currently working on:  
 **Web Development**, **Cloud DevOps Engineering** and **Artificial Intelligence** - specifically **Machine Learning**.  
-Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!
-
+Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!  
 >⚡fun fact: I love to play video games, I am a massive anime nerd, and I like jokes :)
 
 &nbsp;
@@ -27,18 +24,23 @@ Also, I am looking to collaborate with other developers on **open-source**, and 
 This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc, that I work with.
 <p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" /> </a>
+    <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="40"/>
+  </a> 
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/> </a>
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="./img_icons/node-js.svg" alt="nodejs" width="64" title="NodeJS"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/>
   </a>
   <a href="https://react.dev/" target="_blank" >
     <img title="React" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
   </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="./img_icons/node-js.svg" alt="nodejs" width="64" title="NodeJS"/>
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" title="TypeScript" height="32"/> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="32" title="TypeScript" height="32"/>
+  </a>
   <a href="https://ionicframework.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" title="Ionic Framework" alt="ionic" width="40" height="40"/>
   </a>
