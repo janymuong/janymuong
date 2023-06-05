@@ -28,7 +28,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="40"/> </a> 
-  <code><a href="https://flask.palletsprojects.com/" target="_blank"> <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" /> </a></code>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/> </a>
   <a href="https://react.dev/" target="_blank" >
@@ -68,7 +68,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
     <img src="img_icons/mysql.svg" alt="mysql-dbms" width="74" />
   </a>
   <a href="https://www.docker.com" target="_blank">
-    <img src="./img_icons/docker.png" alt="docker" width="42" height="40"/>
+    <img src="./img_icons/docker.png" alt="docker" width="42" height="36"/>
   </a>
   <a href="https://kubernetes.io/" target="_blank">
     <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36"/>
