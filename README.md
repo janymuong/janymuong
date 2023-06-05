@@ -116,7 +116,7 @@ This segment lists out editors and tools/command-line utilities that I use.
 </p>
 
 <br/><br/>
-<div>
+<div align="right">
   <p>also, I use: </p>
   <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" />
   <!-- <img title="Assembly Language" alt="asm" width="22px" src="./img_icons/motherboard.svg" style="padding-right:10px;" /> -->
@@ -129,9 +129,9 @@ This segment lists out editors and tools/command-line utilities that I use.
  -->
 
 ---
-<!-- <h3 align="right"> CONNECT with ME : </h3> -->
+### CONNECT with ME :
 
-<p align="right">
+<p align="left">
   <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
   <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
   <a href="https://github.com/janymuong/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/github-light.svg" title="GitHub" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
