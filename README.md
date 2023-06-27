@@ -7,7 +7,8 @@
 
 <p align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science, <br/>and other things :) </p><br/>
 
-> ### [`My Tech Stack`](./about-me.md)
+
+> #### [My Tech Stack](./about-me.md)
 
 ---
 <p align="left">
