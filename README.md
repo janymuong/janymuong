@@ -3,12 +3,10 @@
 
 <h2 align="center"><code>Hello, World</code> 👋🏿:</h2>
 
-### [`$ whoami`](./about-me.md)  
+> ### [`$ whoami`](./about-me.md)  
 
 <p align="center">I do Software Engineering, Machine Learning, Cloud DevOps, Computer Science, <br/>and other things :) </p><br/>
 
-
-> #### [My Tech Stack](./about-me.md)
 
 ---
 <p align="left">
