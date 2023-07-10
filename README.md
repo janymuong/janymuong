@@ -5,7 +5,8 @@
 
 > ### [`$ whoami`](./about-me.md)  
 
-I am Jany; with expertise in Software Engineering, Machine Learning, Cloud DevOps, Computer Science, and other things :)
+I am Jany; with expertise in Software Engineering, Cloud DevOps, Machine Learning, Computer Science, and other things :)
+
 <!-- 
 <br/> -->
 
