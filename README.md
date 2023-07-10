@@ -7,7 +7,7 @@
 
 I am a person with expertise in Software Engineering, Machine Learning, Cloud DevOps, Computer Science, and other things :)
 
-<br/><br/>
+<br/>
 
 ---
 <p align="left">
