@@ -1,7 +1,7 @@
 <!-- Hi, I am Jany Muong 👋🏿 -->
 <!-- about me -->
 
-<h2><code>Hello</code> 👋🏿:</h2>
+<h3><code>Hello</code> 👋🏿:</h3>
 
 > ### [`$ whoami`](./about-me.md)  
 
