@@ -1,11 +1,11 @@
 <!-- Hi, I am Jany Muong 👋🏿 -->
 <!-- about me -->
 
-<h2 align="center"><code>Hello</code> 👋🏿:</h2>
-
 > ### [`$ whoami`](./about-me.md)  
 
-I am **Jany**; with expertise in Software Engineering, Cloud DevOps, Machine Learning, Computer Science, and other things :)
+<h2><code>Hello</code> 👋🏿:</h2>
+
+I am a Software Engineer, Cloud DevOps Engineer, and I do Machine Learning, Computer Science, and other things :)
 
 <!-- 
 <br/> -->
