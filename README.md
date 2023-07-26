@@ -5,7 +5,8 @@
 
 > ### [`$ whoami`](./about-me.md)  
 
-I am a Software Engineer, Cloud DevOps Engineer, and I do Machine Learning and other things <br/> :)
+I am a Software Engineer, Cloud DevOps Engineer, and I do Machine Learning and other things :)
+<br/>
 
 <!-- 
 <br/> -->
