@@ -5,7 +5,7 @@
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<p align="center">I am a Software and Cloud DevOps Engineer, with a Machine Learning and *Computer and Data Science* background</p><br/>
+<p align="center">I am a Software and Cloud DevOps Engineer, with a Machine Learning and <em>Computer and Data Science</em> background</p><br/>
 
 ---
 # &nbsp;About ME:
