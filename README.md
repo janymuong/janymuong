@@ -3,7 +3,7 @@
 
 <!-- <h2><code>Hello</code> 👋🏿:</h2> -->
 
-> ### [`$ whoami`](./about-me.md)  
+### [`$ whoami`](./about-me.md)  
 
 I am a Software Engineer, Cloud DevOps Engineer, and I do Machine Learning and other things :)
 <br/><br/>
