@@ -6,10 +6,9 @@
 > ### [`$ whoami`](./about-me.md)  
 
 I am a Software and Cloud DevOps Engineer, and I do other things :)
-<!-- <br/><br/>
+<!-- <br/><br/> -->
 
-<!-- 
-<br/> -->
+<br/>
 
 ---
 <p align="left">
