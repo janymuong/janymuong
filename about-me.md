@@ -30,7 +30,7 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
     <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" />
   </a>
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="./img_icons/django.svg" alt="python-django" width="40" height="40" title="Django" />
+    <img src="./img_icons/django.svg" alt="python-django" width="64" title="Django" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/>
