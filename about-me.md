@@ -11,7 +11,7 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 # &nbsp;About ME:
 ### Full-stack and Cloud DevOps Engineering
 
-I use mainly `Python` and `Flask`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
+I use mainly `Python` and `Flask/Django`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
 
 🌱 Currently working on:  
 **Web Development**, **Cloud DevOps Engineering** and **Artificial Intelligence** - specifically **Machine Learning**.  
