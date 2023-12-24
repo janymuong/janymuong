@@ -5,7 +5,7 @@
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
-<p align="center">I am a Software and Cloud DevOps Engineer, with a Machine Learning and <em>Computer and Data Science</em> background</p><br/>
+<p align="center">I am a Software and Cloud DevOps Engineer, with a Machine Learning and <em>Computer Science</em> background</p><br/>
 
 ---
 # &nbsp;About ME:
@@ -28,6 +28,9 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   </a> 
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" />
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="./img_icons/django.svg" alt="python-django" width="40" height="40" title="Django" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/>
