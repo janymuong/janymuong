@@ -11,6 +11,7 @@ I am a Software and Cloud DevOps Engineer, and I do other things :)
 <!-- 
 <br/> -->
 
+---
 <p align="left">
   <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="20" width="40" style="padding-right:10px;" /></a> 
   <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="20" width="40" style="padding-right:10px;" /></a>
