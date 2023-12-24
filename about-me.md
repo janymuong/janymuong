@@ -53,9 +53,9 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" title="Cascading Style Sheets/CSS" height="40"/>
   </a>
-  <a href="https://www.getbootstrap.com/" target="_blank">
+  <!-- <a href="https://www.getbootstrap.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" title="Bootstrap" height="40"/>
-  </a>
+  </a> -->
   <!-- <img src="./img_icons/npm.svg" title="Node Package Manager" alt="npm" width="40px"/> -->
   <a href="https://www.sqlalchemy.org/" target="_blank">
     <img src="img_icons/sqlalchemy_series_redo.png" alt="sqlalchemy" width="90" />
