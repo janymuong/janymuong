@@ -4,7 +4,7 @@
 <!-- <h2><code>Hello</code> 👋🏿:</h2> -->
 
 > [`$ whoami`](./about-me.md)  
-I am a Software and Cloud DevOps Engineer, and I do other things :)  
+> I am a Software and Cloud DevOps Engineer, and I do other things :)  
 <!-- <br/><br/> -->
 
 ---
