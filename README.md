@@ -6,7 +6,7 @@
 > ### [`$ whoami`](./about-me.md)  
 
 I am a Software and Cloud DevOps Engineer, and I do other things :)  
-> Click on the text `$ whoami` for `more` on my **Tech-Stack**.
+> Click on the text [`$ whoami`](./about-me.md) for `more` on my **Tech-Stack**.
 <!-- <br/><br/> -->
 
 ---
