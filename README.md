@@ -9,7 +9,7 @@
 
 ---
 <p align="left">
-  <a href="https://github.com/janymuong/" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="20" width="40" style="padding-right:10px;" /></a>
+  <a href="https://github.com/janymuong/" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="29" width="40" style="padding-right:10px;" /></a>
   <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="20" width="40" style="padding-right:10px;" /></a> 
   <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="20" width="40" style="padding-right:10px;" /></a>
   <a href="https://www.twitch.tv/janymuong/" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="20" width="40" style="padding-right:10px;" /></a> 
