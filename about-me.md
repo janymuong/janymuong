@@ -108,10 +108,11 @@ This segment lists out editors and tools/command-line utilities that I use.
     <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="./img_icons/gnu-linux.png" style="padding-right:10px;">
   </a>
   <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px" style="padding-right:10px;" />
-  <code><img alt="GNU/Bash" title="GNU/Bash" height="32" width="24px" src="./img_icons/gnu-bash.svg" style="padding-right:10px;" /></code>
+  <img alt="GNU/Bash" title="GNU/Bash" height="32" width="32px" src="./img_icons/gnu-bash.svg" style="padding-right:10px;" />
   <a href="https://aws.amazon.com/cloud9/" target="_blank">
     <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="32px" style="padding-right:10px;" />
   </a>
+  <img src="./img_icons/anaconda.svg" style="padding-right:10px;" height="30px" width="40px" title="Anacond Environment Manager" />
   <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" title="Git" width="26px" src="./img_icons/git.svg" style="padding-right:10px;" />
   </a>
