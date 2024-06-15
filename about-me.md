@@ -12,7 +12,7 @@ I am [Jany Muong](https://www.github.com/janymuong/)
 # &nbsp;About ME:
 ### Full-stack and Cloud DevOps Engineering
 
-I use mainly `Python` and `Flask/Django`, `Postgres`, `JavaScript` and `React`, and `Amazon Web Services - AWS`.
+I use mainly `Python` and `Flask/Django`, `Postgres`, `JavaScript` and `React.JS`, and `Amazon Web Services - AWS`.
 
 🌱 Currently working on:  
 **Web Development**, **Cloud DevOps Engineering** and **Artificial Intelligence** - specifically **Machine Learning**.  
@@ -27,11 +27,11 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.python.org" target="_blank">
     <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="40"/>
   </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" />
-  </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="./img_icons/django.svg" alt="python-django" width="64" title="Django" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/>
