@@ -1,7 +1,7 @@
 <!-- Hi, I am Jany Muong 👋🏿 -->
 <!-- about me -->
 
-<h2 align="center"><a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="29" width="40" style="padding-right:10px;" /></a><code> Hello, World</code> 👋🏿:</h2>
+<h2 align="center"><a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="32" width="48" style="padding-right:10px;" /></a><code> Hello, World</code> 👋🏿:</h2>
 
 I am [Jany Muong](https://www.github.com/janymuong/)
 
