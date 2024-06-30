@@ -9,25 +9,22 @@
 
 <p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="40"/>
+    <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="32"/>
   </a> 
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="./img_icons/django.svg" alt="python-django" width="64" title="Django" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" />
+    <img src="./img_icons/django.svg" alt="python-django" width="64" height="36" title="Django" />
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="postgreSQL" width="36" height="36"/>
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="postgreSQL" width="36" height="24"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="40px"/>
+    <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="32"/>
   </a>
   <a href="https://www.docker.com" target="_blank">
-    <img src="./img_icons/docker.png" alt="docker" width="42" height="36"/>
+    <img src="./img_icons/docker.png" alt="docker" width="36" height="25"/>
   </a>
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36"/>
+    <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="32" height="26"/>
   </a>
   
 See [`more`](./about-me.md#full-stack-and-cloud-devops-engineering) of my tech stack, and the tools I work with.
