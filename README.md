@@ -4,8 +4,7 @@
 <!-- <h2><code>Hello</code> 👋🏿:</h2> -->
 
 > [`$ whoami`](./about-me.md)  
-
-I am a Software and Cloud DevOps Engineer, and I do other things :)  
+> I am a Software and Cloud DevOps Engineer, and I do other things :)  
 <!-- <br/><br/> -->
 
 <p align="left">
@@ -17,9 +16,6 @@ I am a Software and Cloud DevOps Engineer, and I do other things :)
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="postgreSQL" width="36" height="36"/>
@@ -34,7 +30,7 @@ I am a Software and Cloud DevOps Engineer, and I do other things :)
     <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36"/>
   </a>
   
-  > See [`More`](./about-me.md#full-stack-and-cloud-devops-engineering) of my tech stack, and the tools I work with.
+See [`more`](./about-me.md#full-stack-and-cloud-devops-engineering) of my tech stack, and the tools I work with.
 </p>
 
 ---
