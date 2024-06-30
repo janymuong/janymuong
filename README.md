@@ -7,31 +7,7 @@
 > I am a Software and Cloud DevOps Engineer, and I do other things :)  
 <!-- <br/><br/> -->
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="32"/>
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="./img_icons/django.svg" alt="python-django" width="64" height="36" title="Django" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" title="PostgreSQL" alt="postgreSQL" width="36" height="24"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank">
-    <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="32"/>
-  </a>
-  <a href="https://www.docker.com" target="_blank">
-    <img src="./img_icons/docker.png" alt="docker" width="36" height="25"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="32" height="26"/>
-  </a>
-  
-See [`more`](./about-me.md#full-stack-and-cloud-devops-engineering) of my tech stack, and the tools I work with.
-</p>
-
 ---
-
 <p align="left">
   <a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="29" width="40" style="padding-right:10px;" /></a>
   <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="20" width="40" style="padding-right:10px;" /></a>
