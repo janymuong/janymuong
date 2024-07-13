@@ -4,7 +4,7 @@
 <h2 align="center"><code> Hello, World</code> <a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="32" width="48" style="padding-right:10px;" /></a>: </h2>
 
 
-I am [Jany Muong](https://www.github.com/janymuong/) - think of me as a Software and Cloud DevOps Engineer, with a **Computer Science** background;
+I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Software and Cloud DevOps Engineer, with a **Computer Science** background;
 
 <br/>
 
