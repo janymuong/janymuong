@@ -18,7 +18,7 @@ I use mainly `Python` and `Flask/Django`, `Postgres`, `JavaScript` and `React.JS
 ### 🌱 Currently Working on:  
 **Web Development**, **Cloud DevOps Engineering** and **Artificial Intelligence** - specifically **Machine Learning**.  
 Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!  
->⚡fun fact: I am obsessed with **command-line interfaces** - `CLIs` and I like jokes :)
+>⚡fun fact: I am obsessed with **command-line interfaces (CLIs)** and I like jokes :)
 
 &nbsp;
 ## My Tech Stack:
