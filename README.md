@@ -2,7 +2,7 @@
 <!-- About Myself -->
 
 > [`$ whoami`](./about-me.md)  
-> I am a Software and Cloud DevOps Engineer, and I do other things :)  
+> I am a Software and Machine Learning Engineer, and I do other things :)  
 <!-- <br/><br/> -->
 
 ---
