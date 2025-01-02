@@ -12,9 +12,10 @@ I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Software 
 # &nbsp;About ME:
 ### Full-stack | Machine Learning | Cloud DevOps Engineering
 
-I use mainly `Python` and `Flask/Django`, `Postgres`, `JavaScript` and `React.JS`, `TensorFlow` and `Amazon Web Services - AWS`, and I like packaging ML models in web applications :)
+I use mainly `Python` and `Flask/Django`, `Postgres`, `JavaScript` and `React.JS`, `TensorFlow`, `Amazon Web Services - AWS`, and I like packaging `ML` models in web applications :)
 
-🌱 Currently working on:  
+
+### 🌱 Currently Working on:  
 **Web Development**, **Cloud DevOps Engineering** and **Artificial Intelligence** - specifically **Machine Learning**.  
 Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!  
 >⚡fun fact: I am obsessed with **command-line interfaces** - `CLIs` and I like jokes :)
