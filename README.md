@@ -1,7 +1,7 @@
 <!-- Hi, I am Jany Muong 👋🏿 -->
 <!-- About Myself -->
 
-> [`$ whoami`](./about-me.md) <a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="29" width="40" style="padding-right:10px;" /></a>  
+> [`$ whoami`](./about-me.md) <a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="28" width="40" style="padding-right:10px;" /></a>  
 > I am a Machine Learning Engineer, and I do other things :)  
 
 <!-- <br/> -->
