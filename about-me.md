@@ -4,19 +4,20 @@
 <h2 align="center"><code> Hello, World</code> <a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="32" width="48" style="padding-right:10px;" /></a>: </h2>
 
 
-I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Software and Machine Learning Engineer, with a **Computer Science** background;
+I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Machine Learning and Software Engineer, with a **Computer Science** background;
 
 <br/>
 
 ---
 # &nbsp;About ME:
-### Full-stack | Machine Learning | Cloud DevOps Engineering
+### Machine Learning | Full-stack | Cloud DevOps Engineering
 
 I use mainly `Python` and `Flask/Django`, `Postgres`, `JavaScript` and `React.JS`, `TensorFlow`, `Amazon Web Services (AWS)`, and I like packaging `ML` models in web applications :)
 
 
 ### 🌱 Currently Working on:  
-**Web Development**, **Cloud DevOps Engineering** and **Artificial Intelligence** - specifically **Machine Learning**.  
+**Artificial Intelligence** - specifically **Machine Learning**, **Cloud DevOps Engineering**, and **Web Development**.  
+
 Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!  
 >⚡fun fact: I am obsessed with **command-line interfaces (CLIs)** and I like jokes :)
 
