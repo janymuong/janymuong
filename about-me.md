@@ -29,6 +29,9 @@ This covers languages, frameworks, cloud compute, databases & ORM, SaaS clients,
   <a href="https://www.python.org" target="_blank">
     <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="40"/>
   </a> 
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="img_icons/TF.svg" alt="TensorFlow" width="90" />
+  </a>
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="./img_icons/django.svg" alt="python-django" width="64" title="Django" />
   </a>
