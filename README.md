@@ -3,9 +3,11 @@
 
 > [`$ whoami`](./about-me.md)  
 > I am a Machine Learning Engineer, and I do other things :)  
-<!-- <br/><br/> -->
 
----
+<br/><br/>
+
+<!-- --- -->
+
 <p align="left">
   <a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="29" width="40" style="padding-right:10px;" /></a>
   <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="20" width="40" style="padding-right:10px;" /></a>
