@@ -95,7 +95,7 @@ This covers (a subset of) languages, frameworks, cloud compute, databases & ORM,
     <img src="./img_icons/circleci.svg" title="CircleCI" alt="circleci" width="36" height="36"/>
   </a> -->
   <a href="https://www.ansible.com/" target="_blank">
-    <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="48" height="40"/>
+    <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="48" height="35"/>
   </a>
   <a href="https://prometheus.io/" target="_blank">
     <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="32" height="32"/>
