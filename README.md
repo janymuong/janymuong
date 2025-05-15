@@ -4,7 +4,7 @@
 > [`$ whoami`](./about-me.md)  
 > I am a Machine Learning Engineer, and I do other things :)  
 
-<br/><br/>
+<br/>
 
 <!-- --- -->
 
