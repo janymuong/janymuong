@@ -10,19 +10,19 @@ I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Machine L
 
 ---
 # &nbsp;About ME:
-### Machine Learning | Full-stack | Cloud DevOps Engineering
+### Machine Learning | Cloud DevOps Engineering
 
 I use mainly `TensorFlow`, `Python` and `Django`, `Postgres`, `JavaScript`, and `Amazon Web Services (AWS)`, and I like packaging `ML` models in backend applications :)
 
 
 ### 🌱 Currently Working on:  
-**Artificial Intelligence** - **machine learning**(specifically), and I do **Cloud DevOps Engineering**, and **Web Development** as well.  
+**Artificial Intelligence** - **machine learning**(specifically), and I do **Cloud DevOps Engineering** as well.  
 
 Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!  
 >⚡fun fact: I am (overtly) obsessed with **command-line interfaces (CLIs)** and I like jokes :)
 
 &nbsp;
-## My Tech Stack:
+## My Stuff:
 
 This covers (a subset of) languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc, that I work with.
 <p align="left">
@@ -41,8 +41,8 @@ This covers (a subset of) languages, frameworks, cloud compute, databases & ORM,
   <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript" width="32" height="32"/>
   </a> -->
-  <a href="https://react.dev/" target="_blank" >
-    <img title="React" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+  <!-- <a href="https://react.dev/" target="_blank" >
+    <img title="React" alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> -->
   <!-- </a>
   <a href="https://nodejs.org/en" target="_blank">
     <img src="./img_icons/node-js.svg" alt="nodejs" width="64" title="NodeJS"/>
@@ -78,6 +78,7 @@ This covers (a subset of) languages, frameworks, cloud compute, databases & ORM,
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="./img_icons/sqlite.svg" alt="sqlite" width="77" />
   </a> -->
+  
   <a href="https://www.docker.com" target="_blank">
     <img src="./img_icons/docker.png" alt="docker" width="42" height="36"/>
   </a>
@@ -87,6 +88,8 @@ This covers (a subset of) languages, frameworks, cloud compute, databases & ORM,
   <a href="https://aws.amazon.com" target="_blank">
     <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="40px"/>
   </a>
+
+  
   <!-- <img src="./img_icons/aws-services.svg" title="AWSCloud" alt="AWS-Cloud-Services" width="54px" height="50px"/> -->
   <!-- <a href="https://aws.amazon.com/eks/" target="_blank">
     <img src="./img_icons/amazon-eks.svg" title="Amazon EKS" alt="eks" width="35" height="35"/>
@@ -94,12 +97,12 @@ This covers (a subset of) languages, frameworks, cloud compute, databases & ORM,
   <!-- <a href="https://circleci.com/developer" target="_blank">
     <img src="./img_icons/circleci.svg" title="CircleCI" alt="circleci" width="36" height="36"/>
   </a> -->
-  <a href="https://www.ansible.com/" target="_blank">
+  <!-- <a href="https://www.ansible.com/" target="_blank">
     <img src="./img_icons/ansible.svg" title="Ansible" alt="ansible" width="48" height="35"/>
   </a>
   <a href="https://prometheus.io/" target="_blank">
     <img src="./img_icons/prometheus.svg" title="Prometheus" alt="Prometheus" width="32" height="32"/>
-  </a>
+  </a> -->
 </p>
 
 <!-- <br /><br />-->
@@ -110,15 +113,15 @@ This segment lists out editors and tools/command-line utilities that I use.
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Visual Studio Code" width="30px" height="32" src="./img_icons/vs_code.svg" style="padding-right:10px;" title="VS Code"/>
   </a>
-  <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank">
+  <!-- <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank">
     <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="./img_icons/gnu-linux.png" style="padding-right:10px;">
-  </a>
+  </a> -->
   <!-- <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px" style="padding-right:10px;" /> -->
   <img alt="GNU/Bash" title="GNU/Bash" height="32" width="32px" src="./img_icons/gnu-bash.svg" style="padding-right:10px;" />
   <a href="https://aws.amazon.com/cloud9/" target="_blank">
     <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="32px" style="padding-right:10px;" />
   </a>
-  <img src="./img_icons/anaconda.svg" style="padding-right:10px;" height="30px" width="40px" title="Anaconda - Python Environment Manager" />
+  <!-- <img src="./img_icons/anaconda.svg" style="padding-right:10px;" height="30px" width="40px" title="Anaconda - Python Environment Manager" /> -->
   <!-- <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" title="Git" width="26px" src="./img_icons/git.svg" style="padding-right:10px;" />
   </a> -->
@@ -133,7 +136,7 @@ This segment lists out editors and tools/command-line utilities that I use.
 
 <br/><br/>
 <div>
-<img title="archlinux" alt="C" width="26px" src="./img_icons/arch.png" style="padding-right:10px;" />
+<img title="archlinux" alt="C" width="32px" src="./img_icons/arch.png" style="padding-right:0px;" />
   <code>also, I use arch btw :) </code> 
 
   <!-- <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /> -->
