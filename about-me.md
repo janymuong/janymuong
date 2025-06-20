@@ -18,13 +18,12 @@ I use mainly `TensorFlow`, `Python` and `Django`, `Postgres`, `JavaScript`, and 
 ### 🌱 Currently Working on:  
 **Artificial Intelligence** - **machine learning**(specifically), and I do **Cloud DevOps Engineering** as well.  
 
-Also, I am looking to collaborate with other developers on **open-source**, and I'm excited about this!  
 >⚡fun fact: I am (overtly) obsessed with **command-line interfaces (CLIs)** and I like jokes :)
 
 &nbsp;
-## My Stuff:
+## STUFF:
 
-This covers (a subset of) languages, frameworks, cloud compute, databases & ORM, SaaS clients, etc, that I work with.
+This covers (a subset of) languages, frameworks and tools, that I work with.
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="40"/>
@@ -108,7 +107,7 @@ This covers (a subset of) languages, frameworks, cloud compute, databases & ORM,
 <!-- <br /><br />-->
 
 ## Tool Setup ⚙️:
-This segment lists out editors and tools/command-line utilities that I use.
+This segment lists out editors and command-line utilities that I use.
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Visual Studio Code" width="30px" height="32" src="./img_icons/vs_code.svg" style="padding-right:10px;" title="VS Code"/>
@@ -137,7 +136,7 @@ This segment lists out editors and tools/command-line utilities that I use.
 <br/><br/>
 <div>
 <img title="archlinux" alt="C" width="32px" src="./img_icons/arch.png" style="padding-right:0px;" />
-  <code>also, I use arch btw :) </code> 
+  <code>I use arch btw :) </code> 
 
   <!-- <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /> -->
   <!-- <img title="Assembly Language" alt="asm" width="22px" src="./img_icons/motherboard.svg" style="padding-right:10px;" /> -->
@@ -153,6 +152,7 @@ This segment lists out editors and tools/command-line utilities that I use.
 ### CONNECT with ME :
 
 <p align="left">
+  <a href="https://www.reddit.com/user/mu-0os/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/reddit.svg" title="Reddit" alt="@janymuong" height="55" width="64" style="padding-right:10px;" /></a>  
   <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
   <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
   <a href="https://www.twitch.tv/janymuong/" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
