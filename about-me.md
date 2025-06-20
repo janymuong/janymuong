@@ -150,7 +150,7 @@ This segment lists out editors and command-line utilities that I use.
  -->
 
 ---
-### CONNECT with ME :
+#### CONNECT with ME on the INTERNET:
 
 <p align="left">
   <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-x.svg" title="Twitter/X" alt="janymuong" height="24" width="40" style="padding-right:10px;" /></a>
