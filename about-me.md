@@ -13,7 +13,7 @@ I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Machine L
 # &nbsp;About ME:
 ### Machine Learning | Cloud DevOps Engineering
 
-I use mainly `TensorFlow`, `Python`, and `Amazon Web Services (AWS)`, and I like packaging `ML` models in backend applications. 
+I use mainly `Python` and `TensorFlow`, and `Amazon Web Services (AWS)`, and I like packaging `ML` models in backend applications. 
 
 
 ### 🌱 What I am Working on:  
