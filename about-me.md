@@ -155,7 +155,7 @@ This segment lists out editors and command-line utilities that I use.
 <p align="left">
   <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-x.svg" title="Twitter/X" alt="janymuong" height="24" width="40" style="padding-right:10px;" /></a>
   <a href="https://twitter.com/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/twitterx.svg" title="Twitter/X" alt="janymuong" height="26" width="42" style="padding-right:10px;" /></a>
-  <a href="https://www.reddit.com/user/mu-0os/" target="_blank"><img align="center" src="./img_icons/reddit.svg" title="Reddit" alt="@janymuong" height="60" width="74" style="padding-right:10px;" /></a>
+  <a href="https://www.reddit.com/user/stackjvnkie/" target="_blank"><img align="center" src="./img_icons/reddit.svg" title="Reddit" alt="@janymuong" height="60" width="74" style="padding-right:10px;" /></a>
   <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
   <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
   <a href="https://www.twitch.tv/janymuong/" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
