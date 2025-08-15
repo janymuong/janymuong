@@ -19,7 +19,7 @@ I use mainly `Python` and `TensorFlow`, and `Amazon Web Services (AWS)`, and I l
 ### 🌱 What I am Working on:  
 **Artificial Intelligence** and **machine learning**, specifically.  
 
->⚡Fun fact: I am (overtly) obsessed with **command-line interfaces (CLIs)** and I like jokes :)
+>⚡Fun Fact: I am (overtly) obsessed with **command-line interfaces (CLIs)**.
 
 &nbsp;
 ## STUFF:
