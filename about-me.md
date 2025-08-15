@@ -110,22 +110,22 @@ This covers (a subset of) languages, frameworks and tools, that I work with.
 ## Tool Setup ⚙️:
 This segment lists out editors and command-line utilities that I use.
 <p align="left">
+  <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px"/>
+  <img src="./img_icons/neovim.svg" height="40px" width="64px" title="UNIX Vim" />
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Visual Studio Code" width="30px" height="32" src="./img_icons/vs_code.svg" style="padding-right:10px;" title="VS Code"/>
   </a>
   <!-- <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank">
     <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="./img_icons/gnu-linux.png" style="padding-right:10px;">
   </a> -->
-  <!-- <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px" style="padding-right:10px;" /> -->
-  <img alt="GNU/Bash" title="GNU/Bash" height="32" width="32px" src="./img_icons/gnu-bash.svg" style="padding-right:10px;" />
+  <!-- <img alt="GNU/Bash" title="GNU/Bash" height="32" width="32px" src="./img_icons/gnu-bash.svg" style="padding-right:10px;" /> -->
   <a href="https://aws.amazon.com/cloud9/" target="_blank">
-    <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="32px" style="padding-right:10px;" />
+    <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="32" width="32px" />
   </a>
   <!-- <img src="./img_icons/anaconda.svg" style="padding-right:10px;" height="30px" width="40px" title="Anaconda - Python Environment Manager" /> -->
   <!-- <a href="https://git-scm.com/" target="_blank">
     <img alt="Git" title="Git" width="26px" src="./img_icons/git.svg" style="padding-right:10px;" />
   </a> -->
-  <img src="./img_icons/unix-vim.svg" style="padding-right:20px;" height="28px" width="40px" title="UNIX Vim" />
   <!-- <a href="https://www.nano-editor.org/" target="_blank">
     <img alt="gnu-nano" width="32px" height="30px" src="./img_icons/gnu-nano.png" title="GNU nano" style="padding-left:50px;" />
   </a> -->
@@ -137,7 +137,7 @@ This segment lists out editors and command-line utilities that I use.
 <br/><br/>
 <div>
 <img title="archlinux" alt="C" width="32px" src="./img_icons/arch.png" style="padding-right:0px;" />
-  <code>I use arch btw :) </code> 
+  <code>I use arch, btw :) </code> 
 
   <!-- <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /> -->
   <!-- <img title="Assembly Language" alt="asm" width="22px" src="./img_icons/motherboard.svg" style="padding-right:10px;" /> -->
