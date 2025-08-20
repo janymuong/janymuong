@@ -10,14 +10,14 @@ I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Machine L
 
 
 
-# &nbsp;About ME:
+### &nbsp;About ME:
 
 I use mainly `Python` and `TensorFlow`, and `Amazon Web Services (AWS)`, and I like packaging `ML` models in backend applications. 
 
 >⚡Fun Fact: I am (overly) obsessed with **command-line interfaces (CLIs)**.
 
 &nbsp;
-## STUFF:
+### STUFF:
 
 This covers (a subset of) languages, frameworks and tools, that I work with.
 <p align="left">
@@ -102,7 +102,7 @@ This covers (a subset of) languages, frameworks and tools, that I work with.
 
 <!-- <br /><br />-->
 
-## Tool Setup ⚙️:
+### Tool Setup ⚙️:
 This segment lists out editors and command-line utilities that I use.
 <p align="left">
   <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px"/>
