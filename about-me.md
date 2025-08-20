@@ -1,28 +1,23 @@
 <!-- Hi, I am Jany Muong 👋🏿 -->
 <!-- about me -->
 
-<h2 align="center"><code> Hello, World</code> <a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="32" width="48" style="padding-right:10px;" /></a>: </h2>
+<h2 align="center"><code> Hello, World</code> <a href="https://github.com/janymuong" target="_blank"><img align="center" src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" title="GitHub" alt="@janymuong" height="40" width="64" style="padding-right:10px;" /></a>: </h2>
 
 
-I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Machine Learning and Software Engineer, with a **Computer Science** background;
+I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Machine Learning and Cloud DevOps/Software Engineer, with a **Computer Science** background;
 
 <br/>
 
 
 
-# &nbsp;About ME:
-### Machine Learning | Cloud DevOps Engineering
+### &nbsp;About ME:
 
 I use mainly `Python` and `TensorFlow`, and `Amazon Web Services (AWS)`, and I like packaging `ML` models in backend applications. 
-
-
-### 🌱 What I am Working on:  
-**Artificial Intelligence** and **machine learning**, specifically.  
 
 >⚡Fun Fact: I am (overly) obsessed with **command-line interfaces (CLIs)**.
 
 &nbsp;
-## STUFF:
+### STUFF:
 
 This covers (a subset of) languages, frameworks and tools, that I work with.
 <p align="left">
@@ -107,7 +102,7 @@ This covers (a subset of) languages, frameworks and tools, that I work with.
 
 <!-- <br /><br />-->
 
-## Tool Setup ⚙️:
+### Tool Setup ⚙️:
 This segment lists out editors and command-line utilities that I use.
 <p align="left">
   <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px"/>
