@@ -22,10 +22,10 @@ I use mainly `Python` and `TensorFlow`, and `Amazon Web Services (AWS)`, and I l
 This covers (a subset of) languages, frameworks and tools, that I work with.
 <p align="left">
   <a href="https://www.python.org" target="_blank">
-    <img src="./img_icons/python.svg" alt="Python" title="Python" width="48" height="40"/>
+    <img src="./img/python.svg" alt="Python" title="Python" width="48" height="40"/>
   </a> 
   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="img_icons/TF.svg" alt="TensorFlow" width="170" />
+    <img src="img/TF.svg" alt="TensorFlow" width="170" />
   </a>
   <!-- <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="./img_icons/flask.svg" alt="flask" width="40" height="40" title="Flask" />
@@ -75,13 +75,13 @@ This covers (a subset of) languages, frameworks and tools, that I work with.
   </a> -->
   
   <a href="https://www.docker.com" target="_blank">
-    <img src="./img_icons/docker.png" alt="docker" width="42" height="36"/>
+    <img src="./img/docker.png" alt="docker" width="42" height="36"/>
   </a>
   <a href="https://kubernetes.io/" target="_blank">
-    <img src="./img_icons/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36"/>
+    <img src="./img/kubernetes.svg" title="Kubernetes" alt="Kubernetes" width="36" height="36"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="./img_icons/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="40px"/>
+    <img src="./img/aws.svg" title="Amazon Web Services" alt="aws" width="48px" height="40px"/>
   </a>
 
   
@@ -105,17 +105,17 @@ This covers (a subset of) languages, frameworks and tools, that I work with.
 ### Tool Setup ⚙️:
 This segment lists out editors and command-line utilities that I use.
 <p align="left">
-  <img src="img_icons/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px"/>
-  <img src="./img_icons/neovim.svg" height="40px" width="64px" title="UNIX Vim" />
+  <img src="img/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px"/>
+  <img src="./img/neovim.svg" height="40px" width="64px" title="UNIX Vim" />
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img alt="Visual Studio Code" width="30px" height="24" src="./img_icons/vs_code.svg" style="padding-right:10px;" title="VS Code"/>
+    <img alt="Visual Studio Code" width="30px" height="24" src="./img/vs_code.svg" style="padding-right:10px;" title="VS Code"/>
   </a>
   <!-- <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank">
     <img alt="GNU/Linux" height="32" title="GNU/Linux" width="32px" src="./img_icons/gnu-linux.png" style="padding-right:10px;">
   </a> -->
   <!-- <img alt="GNU/Bash" title="GNU/Bash" height="32" width="32px" src="./img_icons/gnu-bash.svg" style="padding-right:10px;" /> -->
   <a href="https://aws.amazon.com/cloud9/" target="_blank">
-    <img src="./img_icons/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="24" width="32px" />
+    <img src="./img/cloud9.svg" alt="al2" title="Amazon Linux 2 Cloud9 IDE" height="24" width="32px" />
   </a>
   <!-- <img src="./img_icons/anaconda.svg" style="padding-right:10px;" height="30px" width="40px" title="Anaconda - Python Environment Manager" /> -->
   <!-- <a href="https://git-scm.com/" target="_blank">
@@ -131,7 +131,7 @@ This segment lists out editors and command-line utilities that I use.
 
 <br/><br/>
 <div>
-<img title="archlinux" alt="C" width="32px" src="./img_icons/arch.png" style="padding-right:0px;" />
+<img title="archlinux" alt="C" width="32px" src="./img/arch.png" style="padding-right:0px;" />
   <code>I use arch btw :) </code> 
 
   <!-- <img title="C Language" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" style="padding-right:10px;" /> -->
@@ -148,16 +148,16 @@ This segment lists out editors and command-line utilities that I use.
 #### CONNECT with ME on the INTERNET:
 
 <p align="left">
-  <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/twitter-x.svg" title="Twitter/X" alt="janymuong" height="24" width="40" style="padding-right:10px;" /></a>
-  <a href="https://twitter.com/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/twitterx.svg" title="Twitter/X" alt="janymuong" height="26" width="42" style="padding-right:10px;" /></a>
-  <a href="https://www.reddit.com/user/stackjvnkie/" target="_blank"><img align="center" src="./img_icons/reddit.svg" title="Reddit" alt="@janymuong" height="60" width="74" style="padding-right:10px;" /></a>
-  <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
-  <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
-  <a href="https://www.twitch.tv/janymuong/" target="_blank"><img align="center" src="./img_icons/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
-  <a href="https://github.com/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/github-light.svg" title="GitHub" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
-  <a href="https://github.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/github-dark.svg" title="GitHub" alt="@janymuong" height="23" width="40" style="padding-right:10px;" /></a>
-  <a href="https://discord.com/janymuong#0/#gh-dark-mode-only" target="_blank"><img align="center" src="./img_icons/discord-dark.svg" title="Discord" alt="@janymuong" height="22" width="40" style="padding-right:10px;" /></a>
-  <a href="https://discord.com/janymuong#0/#gh-light-mode-only" target="_blank"><img align="center" src="./img_icons/discord.svg" title="Discord" alt="@janymuong" height="22" width="40" style="padding-right:10px;" /></a>
+  <a href="https://twitter.com/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img/twitter-x.svg" title="Twitter/X" alt="janymuong" height="24" width="40" style="padding-right:10px;" /></a>
+  <a href="https://twitter.com/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img/twitterx.svg" title="Twitter/X" alt="janymuong" height="26" width="42" style="padding-right:10px;" /></a>
+  <a href="https://www.reddit.com/user/stackjvnkie/" target="_blank"><img align="center" src="./img/reddit.svg" title="Reddit" alt="@janymuong" height="60" width="74" style="padding-right:10px;" /></a>
+  <a href="https://www.linkedin.com/in/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img/linkedin-light.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
+  <a href="https://www.linkedin.com/in/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img/linkedin-dark.svg" title="LinkedIn" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
+  <a href="https://www.twitch.tv/janymuong/" target="_blank"><img align="center" src="./img/twitch.svg" title="Twitch" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a> 
+  <a href="https://leetcode.com/u/janymuong/#gh-light-mode-only" target="_blank"><img align="center" src="./img/leetcode.png" title="LeetCode" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
+  <a href="https://leetcode.com/u/janymuong/#gh-dark-mode-only" target="_blank"><img align="center" src="./img/leetcode.png" title="LeetCode" alt="@janymuong" height="24" width="40" style="padding-right:10px;" /></a>
+  <a href="https://discord.com/janymuong#0/#gh-dark-mode-only" target="_blank"><img align="center" src="./img/discord-dark.svg" title="Discord" alt="@janymuong" height="22" width="40" style="padding-right:10px;" /></a>
+  <a href="https://discord.com/janymuong#0/#gh-light-mode-only" target="_blank"><img align="center" src="./img/discord.svg" title="Discord" alt="@janymuong" height="22" width="40" style="padding-right:10px;" /></a>
 </p>
 
 [twitter]: https://twitter.com/janymuong/
