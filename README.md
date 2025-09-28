@@ -6,7 +6,7 @@
  -->
 
 ```sh
-┌─[j@github] - [~] - []
+┌─[j@github] - [~]
 └─[$] whoami  
 I am a machine learning engineer, and I do other things :)  
 ```

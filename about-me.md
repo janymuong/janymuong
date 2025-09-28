@@ -106,7 +106,7 @@ This covers (a subset of) languages, frameworks and tools, that I work with.
 This segment lists out editors and command-line utilities that I use.
 <p align="left">
   <img src="img/terminal-dark.svg" alt="shell" title="Terminal/Shell" height="35" width="30px"/>
-  <img src="./img/neovim.svg" height="40px" width="64px" title="UNIX Vim" />
+  <img src="./img/neovim.svg" height="40px" width="64px" title="UNIX neovim" />
   <a href="https://code.visualstudio.com/" target="_blank">
     <img alt="Visual Studio Code" width="30px" height="24" src="./img/vs_code.svg" style="padding-right:10px;" title="VS Code"/>
   </a>
