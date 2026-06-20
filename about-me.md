@@ -25,7 +25,7 @@ This covers (a subset of) languages, frameworks and tools, that I work with.
     <img src="./img/python.svg" alt="Python" title="Python" width="48" height="40"/>
   </a> 
   <a href="https://www.pytorch.org/" target="_blank">
-    <img src="img/pytorch.svg" alt="Pytorch" width="32" />
+    <img src="img/pytorch.svg" alt="Pytorch" height="36" />
   </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="img/TF.svg" alt="TensorFlow" width="170" />
