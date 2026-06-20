@@ -12,7 +12,7 @@ I am [Jany Muong](https://www.github.com/janymuong/). Think of me as a Machine L
 
 ### &nbsp;About ME:
 
-I use mainly `Python` and `TensorFlow`, and `Amazon Web Services (AWS)`, and I like packaging `ML` models in backend applications. 
+I use mainly `Python` and `PyTorch`/`TensorFlow`, and `Amazon Web Services (AWS)`, and I like packaging `ML` models in backend applications. 
 
 >⚡Fun Fact: I am (overly) obsessed with **command-line interfaces (CLIs)**.
 
@@ -24,6 +24,9 @@ This covers (a subset of) languages, frameworks and tools, that I work with.
   <a href="https://www.python.org" target="_blank">
     <img src="./img/python.svg" alt="Python" title="Python" width="48" height="40"/>
   </a> 
+  <a href="https://www.pytorch.org/" target="_blank">
+    <img src="img/pytorch.svg" alt="Pytorch" width="32" />
+  </a>
   <a href="https://www.tensorflow.org/" target="_blank">
     <img src="img/TF.svg" alt="TensorFlow" width="170" />
   </a>
