@@ -10,7 +10,8 @@
 └─[$] whoami  
 I am a machine learning engineer, and I do other things :)  
 ```
-<a href="https://janymuong.github.io" target="_blank"><img align="center" src="./img/VgCDAzcKvsR6OM0uWg.webp" title="janymuong/webpage" alt="@janymuong" height="24" width="48"/></a> | see [`page`](https://janymuong.github.io) ;
+<a href="https://janymuong.github.io" target="_blank"><img align="center" src="./img/VgCDAzcKvsR6OM0uWg.webp" title="janymuong/webpage" alt="@janymuong" height="24" width="48"/></a> | <a href="https://janymuong.github.io"><kbd> https://janymuong.github.io  </kbd></a>
+
 <!-- <br/> -->
 
 <!-- --- -->
