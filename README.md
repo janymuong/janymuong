@@ -11,7 +11,7 @@
 I am a machine learning engineer, and I do other things :)  
 ```
 
-<a href="https://janymuong.github.io" target="_blank"><img align="center" src="./img/VgCDAzcKvsR6OM0uWg.webp" title="janymuong/webpage" alt="@janymuong" height="24" width="48"/></a> | <kbd><a href="https://janymuong.github.io">https://janymuong.github.io</a></kbd>
+<a href="https://janymuong.github.io" target="_blank"><img align="center" src="./img/VgCDAzcKvsR6OM0uWg.webp" title="janymuong/webpage" alt="@janymuong" height="24" width="48"/></a> | [`https://janymuong.github.io`](https://janymuong.github.io)
 
 
 <!-- <br/> -->
